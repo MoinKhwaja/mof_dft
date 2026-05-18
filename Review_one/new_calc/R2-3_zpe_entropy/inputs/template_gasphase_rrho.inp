@@ -1,0 +1,97 @@
+!! ============================================================
+!! R2-3 gas-phase RRHO template — full Hessian on CO2 / H2 /
+!!                                H2O / CH4
+!! ============================================================
+!! Run one copy for each gas-phase reference molecule. Full
+!! Hessian is cheap because the molecules are small.
+!!
+!! Steps:
+!!   1. Re-optimize the molecule to tight criteria (EPS_SCF 1e-7,
+!!      MAX_FORCE 1e-5). Use the existing converged geometry from
+!!      `DFT/complete_dft_input/molecules/<mol>-pos-1.xyz` as the
+!!      starting point — do not start from scratch.
+!!   2. Run this vibrational analysis as a SEPARATE job after the
+!!      tight optimization. CP2K prints translational, rotational,
+!!      and vibrational thermochemistry separately when the
+!!      cell is large enough that the molecule does not interact
+!!      with its images.
+!!   3. Confirm zero imaginary frequencies. For H2 the rotational
+!!      symmetry number sigma = 2; for CO2 sigma = 2; for H2O
+!!      sigma = 2; for CH4 sigma = 12. CP2K asks the user to
+!!      supply sigma manually (see SYMMETRY_NUMBER below).
+!! ============================================================
+
+&GLOBAL
+  PROJECT_NAME      co2_freq          !! <-- EDIT per molecule
+  PRINT_LEVEL       MEDIUM
+  RUN_TYPE          VIBRATIONAL_ANALYSIS
+&END GLOBAL
+
+&VIBRATIONAL_ANALYSIS
+  DX                0.005
+  NPROC_REP         8
+  FULLY_PERIODIC    .FALSE.
+
+  TC_PRESSURE       101325.0
+  TC_TEMPERATURE    298.15
+  THERMOCHEMISTRY   .TRUE.
+
+  !! CO2 = 2, H2 = 2, H2O = 2, CH4 = 12
+  SYMMETRY_NUMBER   2                  !! <-- EDIT per molecule
+
+  &PRINT
+    &MOLDEN_VIB
+      ON
+    &END MOLDEN_VIB
+  &END PRINT
+&END VIBRATIONAL_ANALYSIS
+
+&FORCE_EVAL
+  METHOD Quickstep
+
+  &DFT
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_MOLOPT_UCL
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_MOLOPT
+    POTENTIAL_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/GTH_POTENTIALS
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_SET
+
+    MULTIPLICITY  1
+
+    &MGRID
+      CUTOFF       450
+      REL_CUTOFF   60
+      NGRIDS       4
+    &END MGRID
+
+    &QS
+      METHOD GPW
+    &END QS
+
+    &SCF
+      SCF_GUESS  RESTART
+      EPS_SCF    1.0E-7
+      MAX_SCF    200
+      &OT
+        MINIMIZER       DIIS
+        PRECONDITIONER  FULL_SINGLE_INVERSE
+      &END OT
+    &END SCF
+
+    &XC
+      &XC_FUNCTIONAL PBE
+      &END XC_FUNCTIONAL
+      &vdW_POTENTIAL
+        DISPERSION_FUNCTIONAL  PAIR_POTENTIAL
+        &PAIR_POTENTIAL
+          TYPE                  DFTD3
+          REFERENCE_FUNCTIONAL  PBE
+          PARAMETER_FILE_NAME   /home/3/uh03203/Documents/cp2k/data/dftd3.dat
+          R_CUTOFF              10
+        &END PAIR_POTENTIAL
+      &END vdW_POTENTIAL
+    &END XC
+  &END DFT
+
+  @INCLUDE 'co2.subsys'             !! <-- EDIT per molecule
+
+&END FORCE_EVAL

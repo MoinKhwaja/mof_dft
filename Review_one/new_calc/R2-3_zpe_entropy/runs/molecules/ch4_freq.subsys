@@ -1,0 +1,30 @@
+ &SUBSYS
+     &CELL
+        ABC 15.0 15.0 15.0
+        PERIODIC NONE
+     &END CELL
+
+     &TOPOLOGY
+       COORD_FILE_FORMAT XYZ
+       COORD_FILE_NAME   ch4_final.xyz
+       CONN_FILE_FORMAT  OFF
+     &END TOPOLOGY
+
+    &KIND H
+      ELEMENT      H
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q1
+    &END KIND
+
+    &KIND C
+      ELEMENT      C
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q4
+    &END KIND
+
+    &KIND O
+      ELEMENT      O
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q6
+    &END KIND
+  &END SUBSYS

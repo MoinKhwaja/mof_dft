@@ -1,0 +1,93 @@
+!! R2-3 PHVA frequency input — generated automatically.
+!! Material: 74ace65   Step: s0
+!! Active subsystem: 18 atoms (1-based) {adsorbate=0, metal=ALL, 1st shell=14}
+!! n_total = 98 atoms.
+
+&GLOBAL
+  PROJECT_NAME       s0_freq
+  PRINT_LEVEL        MEDIUM
+  RUN_TYPE           VIBRATIONAL_ANALYSIS
+&END GLOBAL
+
+&VIBRATIONAL_ANALYSIS
+  DX               0.005
+  NPROC_REP        4
+  FULLY_PERIODIC   .FALSE.
+  TC_PRESSURE      101325.0
+  TC_TEMPERATURE   298.15
+  THERMOCHEMISTRY  .TRUE.
+
+  &MODE_SELECTIVE
+    &INVOLVED_ATOMS
+      INVOLVED_ATOMS  1 2 3 4 55 56 57 58 59 61 62 63
+                      64 65 67 68 69 70
+    &END INVOLVED_ATOMS
+  &END MODE_SELECTIVE
+
+  &PRINT
+    &MOLDEN_VIB
+      ON
+    &END MOLDEN_VIB
+    &PROGRAM_RUN_INFO
+      &EACH
+        REPLICA_EVAL  1
+      &END EACH
+    &END PROGRAM_RUN_INFO
+  &END PRINT
+&END VIBRATIONAL_ANALYSIS
+
+&FORCE_EVAL
+  METHOD Quickstep
+
+  &DFT
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_MOLOPT_UCL
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_MOLOPT
+    POTENTIAL_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/GTH_POTENTIALS
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_ADMM_MOLOPT
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_ADMM
+    BASIS_SET_FILE_NAME  /home/3/uh03203/Documents/cp2k/data/BASIS_SET
+
+    MULTIPLICITY  1
+
+    &MGRID
+      CUTOFF      450
+      REL_CUTOFF  60
+      NGRIDS      4
+    &END MGRID
+
+    &QS
+      METHOD GPW
+    &END QS
+
+    &SCF
+      SCF_GUESS  RESTART
+      EPS_SCF    1.0E-7
+      MAX_SCF    200
+      &OT
+        MINIMIZER       DIIS
+        PRECONDITIONER  FULL_SINGLE_INVERSE
+      &END OT
+      &OUTER_SCF
+        OPTIMIZER  DIIS
+        EPS_SCF    1.0E-6
+        MAX_SCF    100
+      &END OUTER_SCF
+    &END SCF
+
+    &XC
+      &XC_FUNCTIONAL PBE
+      &END XC_FUNCTIONAL
+      &vdW_POTENTIAL
+        DISPERSION_FUNCTIONAL  PAIR_POTENTIAL
+        &PAIR_POTENTIAL
+          TYPE                  DFTD3
+          REFERENCE_FUNCTIONAL  PBE
+          PARAMETER_FILE_NAME   /home/3/uh03203/Documents/cp2k/data/dftd3.dat
+          R_CUTOFF              10
+        &END PAIR_POTENTIAL
+      &END vdW_POTENTIAL
+    &END XC
+  &END DFT
+
+  @INCLUDE 's0_freq.subsys'
+&END FORCE_EVAL

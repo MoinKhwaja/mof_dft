@@ -1,0 +1,6 @@
+# Per (material, step) active-subsystem atom index list for PHVA.
+# Indices are 1-based and match the order in the corresponding s<n>.subsys / .xyz.
+# Fill these in BEFORE running the PHVA template.
+# qmof_id	step	atom_indices (space-separated)
+# example:
+# 04c1119	s0	17 18 19 20 105 106 107 108 109 110

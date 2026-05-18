@@ -1,0 +1,72 @@
+&GLOBAL
+  PROJECT_NAME s2
+  PRINT_LEVEL MEDIUM
+  RUN_TYPE GEO_OPT
+&END GLOBAL
+
+&FORCE_EVAL
+  METHOD Quickstep
+
+  &DFT
+    BASIS_SET_FILE_NAME /home/3/uh03203/Documents/cp2k/data/BASIS_MOLOPT_UCL
+    BASIS_SET_FILE_NAME /home/3/uh03203/Documents/cp2k/data/BASIS_MOLOPT
+    POTENTIAL_FILE_NAME /home/3/uh03203/Documents/cp2k/data/GTH_POTENTIALS
+    BASIS_SET_FILE_NAME /home/3/uh03203/Documents/cp2k/data/BASIS_ADMM_MOLOPT
+    BASIS_SET_FILE_NAME /home/3/uh03203/Documents/cp2k/data/BASIS_ADMM
+    BASIS_SET_FILE_NAME /home/3/uh03203/Documents/cp2k/data/BASIS_SET
+    MULTIPLICITY 1
+    &MGRID
+      CUTOFF 450
+      REL_CUTOFF 60
+      NGRIDS     4
+    &END MGRID
+    &QS
+      METHOD GPW
+    &END QS
+    &SCF
+      SCF_GUESS ATOMIC
+      EPS_SCF 1.0E-5
+      MAX_ITER_LUMO 1000
+      MAX_SCF 100
+      IGNORE_CONVERGENCE_FAILURE
+      &OT
+        MINIMIZER      DIIS
+        PRECONDITIONER FULL_SINGLE_INVERSE
+      &END
+      &OUTER_SCF
+        OPTIMIZER DIIS
+        EPS_SCF 1.0E-4
+        MAX_SCF 100
+      &END
+    &END SCF
+
+    &XC
+      &XC_FUNCTIONAL PBE
+      &END XC_FUNCTIONAL
+
+      &vdW_POTENTIAL
+         DISPERSION_FUNCTIONAL PAIR_POTENTIAL
+         &PAIR_POTENTIAL
+           TYPE DFTD3
+           REFERENCE_FUNCTIONAL PBE
+           PARAMETER_FILE_NAME /home/3/uh03203/Documents/cp2k/data/dftd3.dat
+           R_CUTOFF      10
+         &END PAIR_POTENTIAL
+      &END vdW_POTENTIAL
+
+    &END XC
+  &END DFT
+
+ @INCLUDE 's2.subsys'
+
+&END FORCE_EVAL
+&MOTION
+ &GEO_OPT
+   OPTIMIZER  BFGS
+   MAX_ITER  500
+   MAX_DR     3E-03
+   MAX_FORCE     3E-03
+   RMS_DR     3E-03
+   RMS_FORCE     3E-03
+ &END GEO_OPT
+&END

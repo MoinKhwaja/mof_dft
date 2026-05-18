@@ -1,0 +1,120 @@
+ &SUBSYS
+     &CELL
+        CELL_FILE_FORMAT CIF
+        CELL_FILE_NAME s0.cif
+     &END CELL
+
+     &TOPOLOGY
+       COORD_FILE_FORMAT CIF
+       COORD_FILE_NAME s0.cif
+     &END TOPOLOGY
+
+     &KIND Mg
+      ELEMENT      Mg
+      BASIS_SET    DZVP-MOLOPT-SR-GTH-q2
+      POTENTIAL    GTH-PBE-q2
+    &END KIND
+
+    &KIND H
+      ELEMENT      H
+      BASIS_SET    DZVP-MOLOPT-GTH 
+      POTENTIAL    GTH-PBE-q1
+    &END KIND
+
+    &KIND C
+      ELEMENT      C
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q4 
+    &END KIND
+
+    &KIND O
+      ELEMENT      O
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q6
+    &END KIND
+
+    &KIND N
+      ELEMENT      N
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q5
+    &END KIND
+
+    &KIND Zn
+      ELEMENT      Zn
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q12
+    &END KIND
+
+    &KIND Cd
+      ELEMENT      Cd
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q12
+    &END KIND
+
+    &KIND S
+      ELEMENT      S
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q6
+    &END KIND
+
+    &KIND Br
+      ELEMENT      Br
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q7
+    &END KIND
+
+    &KIND Cl
+      ELEMENT      Cl
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q7
+    &END KIND
+
+    &KIND Al
+      ELEMENT      Al
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q3
+    &END KIND
+
+    &KIND F
+      ELEMENT      F
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q7
+    &END KIND
+
+    &KIND Nd
+      ELEMENT      Nd
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q14
+    &END KIND
+
+    &KIND Cu
+      ELEMENT      Cu
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q11
+    &END KIND
+
+    &KIND Tb
+      ELEMENT      Tb
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q19
+    &END KIND
+
+    &KIND Fe
+      ELEMENT      Fe
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q16
+    &END KIND
+
+    &KIND In
+      ELEMENT      In
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q3
+    &END KIND
+
+    &KIND Ni
+      ELEMENT      Ni
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q18
+    &END KIND
+
+  &END SUBSYS

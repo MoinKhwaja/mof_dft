@@ -1,0 +1,2 @@
+R2-4 has no independent compute. See ../README.md.
+Outputs are pulled from sibling folders (R1-9, R1-6, R2-3) into ../analysis/.

@@ -1,0 +1,32 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Zn4 H36 C60 O16 F4'
+_cell_length_a                         6.379011
+_cell_length_b                         10.789341
+_cell_length_c                         35.530106
+_cell_angle_alpha                      90.446854
+_cell_angle_beta                       116.003212
+_cell_angle_gamma                      90.179199
+_cell_volume                           2197.699748
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   O116       1.0     0.500000     0.500000     0.500000    Uiso  ? H
+   O116       1.0     0.500000     0.500000     0.480000    Uiso  ? H

@@ -1,0 +1,3 @@
+@ ./temp_file_creation/feature_generation/zeo++//qmof-9a04c15_sa.txt Unitcell_volume: 27194.1   Density: 0.162443   ASA_A^2: 2588.18 ASA_m^2/cm^3: 951.744 ASA_m^2/g: 5858.93 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 2588.18  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

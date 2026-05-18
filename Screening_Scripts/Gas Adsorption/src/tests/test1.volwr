@@ -1,0 +1,3 @@
+@ /Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Screening_Scripts/PCCC-MOF-Adsorption-Model/src/tests/test1.volwr Unitcell_volume: 4008.37   Density: 0.894804   AV_A^3: 398.432 AV_Volume_fraction: 0.0994 AV_cm^3/g: 0.111086 NAV_A^3: 0 NAV_Volume_fraction: 0 NAV_cm^3/g: 0 range_A^3: 0 range_Volume_fraction: 0 range_cm^3/g: 0
+Number_of_channels: 2 Channel_volume_A^3: 200.098  198.334  
+Number_of_pockets: 0 Pocket_volume_A^3: 

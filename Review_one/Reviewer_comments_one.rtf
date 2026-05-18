@@ -1,0 +1,824 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww19600\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Delivered-To: khwaja.m.2ff9@m.isct.ac.jp\
+Received: by 2002:a05:6130:8450:10b0:95f:ea90:c4c5 with SMTP id e16-n1csp116590uae; Sat, 16 May 2026 19:46:19 -0700 (PDT)\
+X-Received: by 2002:a05:6a00:3922:b0:83e:2c38:f5d5 with SMTP id d2e1a72fcca58-83f33d96f27mr10194453b3a.28.1778985979299; Sat, 16 May 2026 19:46:19 -0700 (PDT)\
+ARC-Seal: i=1; a=rsa-sha256; t=1778985979; cv=none; d=google.com; s=arc-20240605; b=AinEYp9PbbzVrcr0GuqdfISKuE2Py3UOHjVr0tDbT3TVueWvMM+uE9DVFt4Hh1vlPB kIFalaVNfAU9GOec7ueDDGcuh72to8y0wLGLmgqHoYQNxYM2a6uZldTqJ7rgMjiByJOF b76Yn0/fmuLemNQvM9fpYsCNbpGpwuKbjMkdqjEMvLQ7I3ULfD1ZpPZPCe106JHZuVqc 42UzK6FNY1AvRkWzaNeFhzUba4pdvO5AIgXCy7Y0/hlz6RGBzupCwVuQFbXrEHQLwNtE ri4EL9osu6iCX2cpr/6P/XB2FsNlflfS28yqsARujB7x/d31/93BON/+1zZk8U9VWfwg NI4w==\
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605; h=in-reply-to:organization:from:to:content-language:references :reply-to:subject:user-agent:mime-version:date:message-id :dkim-signature; bh=OLXSLfVMERBH5P95bP1D3UXAc+TWNF5/v2dpr8VcF4g=; fh=4MkUna2HBEYCui56QlxI/Hz5JQXcAUIQBePT6a3hz/4=; b=gM2OkVXxUKJCFOgzxLDNB4havYMtUMjdK+8hYGq2NSz8vJ/T6EVgylf0VI40U5AqO4 1EXF1Z5boxAGt3L1qj3ZLBL0wwu6tj5F34eg3G4A9cbwo7DtFW+hui6UpTP8fDEtfzNf iRtanr0x6Tp2YxwYhay50S5rW5rwi0ojBeH/HOIHZn7bT+Ume6Mwg6EloCQIJ9utvN5I Vr+egYfmTas1W8JpEvBxWqFEK2OOxHB/xtnzaarM7DSLC4Zx32SsP1j5RDHs3fFpKpCY m67R1uxIz4BXNUZlu+ALmaXQpn3Vo5A1z0XKXnwWQaxk+1L5uFqOwzEbBRRkTzboRZ+V pWCA==; dara=google.com\
+ARC-Authentication-Results: i=1; mx.google.com; dkim=pass header.i=@isct.ac.jp header.s=isct2024 header.b="myfuOT/0"; gateway.spf=pass (google.com: domain m.isct.ac.jp configured 131.112.13.39 as internal address) smtp.mailfrom=harada@mct.isct.ac.jp smtp.remote-ip=131.112.13.39 policy.d=m.isct.ac.jp\
+Return-Path: <harada@mct.isct.ac.jp>\
+Received: from mail0004.nap.gsic.titech.ac.jp (mail0004.nap.gsic.titech.ac.jp. [131.112.13.39]) by mx.google.com with SMTPS id d2e1a72fcca58-83f1963b7e2si24481178b3a.87.2026.05.16.19.46.18 for <khwaja.m.2ff9@m.isct.ac.jp> (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256); Sat, 16 May 2026 19:46:19 -0700 (PDT)\
+Received-SPF: pass (google.com: domain m.isct.ac.jp configured 131.112.13.39 as internal address)\
+Authentication-Results: mx.google.com; dkim=pass header.i=@isct.ac.jp header.s=isct2024 header.b="myfuOT/0"; gateway.spf=pass (google.com: domain m.isct.ac.jp configured 131.112.13.39 as internal address) smtp.mailfrom=harada@mct.isct.ac.jp smtp.remote-ip=131.112.13.39 policy.d=m.isct.ac.jp\
+Received: from 172.22.36.122 by mail0004.nap.gsic.titech.ac.jp with Mail2000 ESMTP Server V8.00(1685086:1:AUTH_RELAY) (envelope-from <harada@mct.isct.ac.jp>); Sun, 17 May 2026 11:46:15 +0900 (JST)\
+Return-Path: <harada@mct.isct.ac.jp>\
+Received: from mail0003.nap.gsic.titech.ac.jp (mail0003.nap.gsic.titech.ac.jp [131.112.13.38]) by drweb005.nap.gsic.titech.ac.jp (Postfix) with SMTP id 672ED801E3D84 for <khwaja.m.2ff9@m.isct.ac.jp>; Sun, 17 May 2026 11:46:15 +0900 (JST)\
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=isct.ac.jp; s=isct2024; t=1778985975; bh=OLXSLfVMERBH5P95bP1D3UXAc+TWNF5/v2dpr8VcF4g=; h=Content-Type:Message-ID:Date:To:From; b=myfuOT/0hDe5/gIJnFpbEwg7IwuQ0iQTs5hj/Kz0F45Va+rnAHOP6kpp5Lyc+UAyM EY0tYxD7riEq9Iw34/ijV42OOSIcj+FJNtBy+knnsvTrTP4QtRudikzAlEmwh/403a zIwGUva0SUTNQPdjGIxNFSCBJb9qTfdH/mLk3iztcAfqjXDO7V+n6dCHrslMsctUwm tC2Qt0avzJErwVfK7nhR+4739TNCK7F8ZPGD3cz21IH3q8RKofM2z1zyAxPxGI3FRg bg79It6wNot8JU3D9hmxcZkFqoNkhwkcGZQBWRRf09y9rO2ez6n+qjsgKXWyB2Go2W aAcuyybhzyXRg==\
+Received: from 60.95.250.189 by mail0003.nap.gsic.titech.ac.jp with Mail2000 ESMTPA Server V8.00(44412:0:AUTH_LOGIN) (envelope-from <harada@mct.isct.ac.jp>); Sun, 17 May 2026 11:46:14 +0900 (JST)\
+Content-Type: multipart/mixed; boundary="------------POmgg6PMJn0HhM4Jw6vWMCEN"\
+Message-ID: <f075bc8f-f5a6-4832-94e9-a86773075cbe@mct.isct.ac.jp>\
+Date: Sun, 17 May 2026 11:46:16 +0900\
+MIME-Version: 1.0\
+User-Agent: Mozilla Thunderbird\
+Subject: Fwd: Decision on submission to Nanoscale - NR-ART-04-2026-001578\
+Reply-To: harada@mct.isct.ac.jp\
+References: <0101019e3318e832-646182e6-d14e-41f8-9741-1a75be06055e-000000@us-west-2.amazonses.com>\
+Content-Language: en-US\
+To: MOIN KHWAJA <khwaja.m.2ff9@m.isct.ac.jp>\
+From: Takuya Harada <harada@mct.isct.ac.jp>\
+Organization: Institute of Science Tokyo\
+In-Reply-To: <0101019e3318e832-646182e6-d14e-41f8-9741-1a75be06055e-000000@us-west-2.amazonses.com>\
+X-Forwarded-Message-Id: <0101019e3318e832-646182e6-d14e-41f8-9741-1a75be06055e-000000@us-west-2.amazonses.com>\
+\
+--------------POmgg6PMJn0HhM4Jw6vWMCEN\
+Content-Type: multipart/alternative; boundary="------------0oCOdBBT7szU1HCbubx3opUI"\
+\
+--------------0oCOdBBT7szU1HCbubx3opUI\
+Content-Type: text/plain; charset=UTF-8; format=flowed\
+Content-Transfer-Encoding: 8bit\
+\
+Hi Moin,\
+\
+I just received the response from the editor at Nanoscale with \
+reviewers' comments.\
+Could you read through carefully, and prepare the revisions?\
+The reviewers requested us to include some additional consideration in \
+particular on the DFT calculations.\
+How do you think?\
+\
+Thanks,\
+\
+Best,\
+\
+Takuya\
+\
+\
+\
+-------- Forwarded Message --------\
+Subject: 	Decision on submission to Nanoscale - NR-ART-04-2026-001578\
+Date: 	Sat, 16 May 2026 23:22:10 +0000\
+From: 	Nanoscale <onbehalfof@manuscriptcentral.com>\
+Reply-To: 	nanoscale@rsc.org\
+To: 	harada@mct.isct.ac.jp\
+\
+\
+\
+17-May-2026\
+\
+Dear Dr Harada:\
+\
+Manuscript ID: NR-ART-04-2026-001578\
+TITLE: In Silico Screening of Metal-Organic Frameworks for \
+CO<sub>2</sub> Photo-Hydrogenation\
+\
+Thank you for your submission to Nanoscale, published by the Royal \
+Society of Chemistry. I sent your manuscript to reviewers and I have now \
+received their reports which are copied below.\
+\
+I have carefully evaluated your manuscript and the reviewers\'92 reports, \
+and the reports indicate that major revisions are necessary.\
+\
+Please submit a revised manuscript which addresses all of the reviewers\'92 \
+comments. Further peer review of your revised manuscript may be needed. \
+When you submit your revised manuscript please include a point by point \
+response to the reviewers\'92 comments and highlight the changes you have \
+made. Full details of the files you need to submit are listed at the end \
+of this email. The journal would not usually consider manuscripts \
+through repeated rounds of revision; authors are advised to respond \
+fully to all concerns raised by reviewers at the earliest opportunity.\
+\
+Please submit your revised manuscript as soon as possible using this link:\
+\
+*** PLEASE NOTE: This is a two-step process. After clicking on the link, \
+you will be directed to a webpage to confirm. ***\
+https://mc.manuscriptcentral.com/nr?URL_MASK=2a56455536e74e55a4a6d177c70d8e37\
+\
+(This link goes straight to your account, without the need to log on to \
+the system. For your account security you should not share this link \
+with others.)\
+\
+Alternatively, you can login to your account \
+(https://mc.manuscriptcentral.com/nr) where you will need your \
+case-sensitive USER ID and password.\
+\
+You should submit your revised manuscript as soon as possible; please \
+note you will receive a series of automatic reminders. If your revisions \
+will take a significant length of time, please contact me. If I do not \
+hear from you, I may withdraw your manuscript from consideration and you \
+will have to resubmit. Any resubmission will receive a new submission date.\
+\
+Nanoscale strongly encourages authors of research articles to include an \
+\'91Author contributions\'92 section in their manuscript, for publication in \
+the final article. This should appear immediately above the \'91Conflict of \
+interest\'92 and \'91Acknowledgement\'92 sections. I strongly recommend you use \
+CRediT (the Contributor Roles Taxonomy from CASRAI - \
+https://casrai.org/credit/) for standardised contribution descriptions. \
+All authors should have agreed to their individual contributions ahead \
+of submission and these should accurately reflect contributions to the \
+work. Please refer to our general author guidelines \
+http://www.rsc.org/journals-books-databases/journal-authors-reviewers/author-responsibilities/ \
+for more information.\
+\
+We require the submitting author to link their ORCID. This is quick and \
+easy to do as part of the revised manuscript submission process, and it \
+will be published with the article. For further information see: \
+https://www.rsc.org/publishing/journals/processes-and-policies\
+\
+Please note: to support increased transparency, Nanoscale offers authors \
+the option of transparent peer review. If authors choose this option, \
+the reviewers\'92 comments, authors\'92 response and editor\'92s decision letter \
+for all versions of the manuscript are published alongside the article. \
+Reviewers remain anonymous unless they choose to sign their report. We \
+will ask you to confirm whether you would like to take up this option at \
+the revision stages.\
+\
+I look forward to receiving your revised manuscript.\
+\
+Yours sincerely,\
+\
+Professor Jinlan Wang\
+Associate Editor, Nanoscale\
+Southeast University\
+China\
+\
+Journal Scope Page: rsc.li/nanoscale\
+HOT Articles: rsc.li/nanoscaleHOT\
+Recent Reviews: rsc.li/nanoscaleReviews\
+Open Access Papers: rsc.li/nanoscaleOpenAccess\
+\
+Due to the international locations and flexible working patterns of our \
+editors, you may receive this email outside of working hours. We \
+acknowledge that you will read or respond when it is next convenient for \
+you to do so.\
+\
+************\
+EDITOR\'92S COMMENTS\
+\
+I would ask that you please note the following:\
+* If any of the reviewer reports below contain recommended references to \
+be included in your manuscript, please check them carefully and only \
+include those you think are relevant and help improve your manuscript.\
+\
+************\
+REVIEWER REPORT(S):\
+Referee: 1\
+\
+Comments to the Author\
+The authors have performed an intensive study whereby several thousand \
+MOF structures are screened for their suitability in performing the \
+photocatalytic hydrogenation of CO2. The selection criteria for each \
+stage of the screening, and their ordering, is rational and \
+well-reasoned. The manuscript is well written, has a logical flow and \
+features several well crafted and informative figures. The authors have \
+made use of several well-established tools to establish a robust workflow.\
+However, there are some serious matters for consideration, particularly \
+with the DFT calculations, that prevent this paper from being suitable \
+for publication.\
+\'93Photo-hydrogenation combines the advantages of both methods to \
+accelerate the overall catalytic process by using light to promote \
+charge excitation and separation, lowering the required heat to carry \
+out the reaction\'94.\
+It is unclear what two methods are being referred to here. The process \
+of excitation and separation is ubiquitous to all photocatalysis. \
+Photo-hydrogenation appears to be a subset of photocatalytic reactions, \
+just as electroreduction can be a subset of electrocatalysis. The \
+authors frame photo-hydrogenation as a novel method that is entirely \
+separate from photocatalysis, when that is not the case. Clarification \
+is needed here. In Figure 1, the DFT analysis is shown to have taken 55 \
+hrs and 30 mins. Is this the time taken to optimise a single \
+intermediate, a full reaction profile on a single MOF candidate, or all \
+reaction profiles on all selected MOF candidates?\
+It should be specified whether DFT calculations are performed with spin \
+polarisation.\
+It is unclear to me what reaction conditions are being proposed for the \
+photocatalytic CO2 conversion. Aqueous stability is screened for, \
+implying a consideration for the presence of water. Are these materials \
+intended to be immersed in an aqueous environment? Clarification on \
+\'91humid conditions\'92 would be helpful.\
+Regarding Equation 1, it appears that the energy of any intermediate is \
+relative to the energy of a preceding intermediate, following a sort of \
+cumulative scheme. However, it is unclear to me why such a method is \
+chosen for calculating the relative energies. Standard practice is to \
+calculate all energies relative to a common reference, i.e., the clean \
+and relaxed MOF and gas phase species. \uc0\u8710 E=E_(MOF+ads)-E_MOF-\u12310 xE\u12311 _(CO_2 \
+(g))-yE_(H_2 (g))\
+Looking at the authors proposed scheme, it may be that the adsorbate is \
+removed from the MOF at n-1 and a single point calculation is performed \
+on the resulting MOF configuration, but the point remains the same, that \
+the energies appear to not have a common reference.\
+Ground state energies were calculated at the DFT-D3 level. However, in \
+the introduction the authors claim that the photo-hydrogenation \
+mechanism relies on charge excitation and separation. The photocatalytic \
+mechanism for CO2 hydrogenation involves the interaction of CO2 with an \
+excited electron to give the CO2\'96 intermediate.(1) The authors have \
+modelled the photocatalytic mechanism as a thermocatalytic mechanism. \
+The authors have not accounted for or discussed any excitation in the \
+calculation of the reaction profile. How is their ground state reaction \
+profile linked to a process involving an excited state?\
+The authors also state, \'93One exception is qmof-52ef7e9, which exhibits a \
+slight endothermic step at initial CO2 adsorption before proceeding \
+exothermically through the remaining steps, though this barrier should \
+be overcome by the hydrogenation reaction conditions.\'94 What conditions \
+are being referred to here?\
+It should be made clear that all reaction steps involve the concerted \
+hydrogenation of CO2 intermediates. Is H2 intended to be a feedstock? Or \
+are holes used to oxidise water and generate protons? Justification is \
+required for not modelling individual PCET steps.\
+It is unclear if the authors have sampled different configurations for \
+each step. i.e., Have they tried to coordinate CO2 to the metal centre \
+via the C atom, or have they attempted to hydrogenate the oxygen atom \
+that is coordinated to the metal centre?\
+The authors have screened 20,000 MOF structures using a correction to \
+account for the well-known failing of GGA methods to reproduce the \
+bandgap. While appropriate for such a large number of structures, the \
+authors should validate the bandgaps of their successful candidate \
+materials using a more accurate hybrid functional. This is a necessary \
+sanity check for their workflow.\
+All DFT energies in the SI should be in eV, as that is the convention \
+used in the main text.\
+Figures in the SI should also have captions. It is unclear what is being \
+measured in Table/Figure S7.\
+References\
+(1) Ingham, M., Aziz, A., Di Tommaso, D., Crespo-Otero, R. Mater. Adv. \
+2023, 4 (22), 5388\'965419.\
+\
+\
+Referee: 2\
+\
+Comments to the Author\
+The article \'93In Silico Screening of Metal-Organic Frameworks for CO2 \
+Photo-Hydrogenation\'94 by Moin Khwaja, Adrian Loy Chun Minh, and Takuya \
+Harada reports a study that is highly relevant for the circular carbon \
+economy. This study illustrates the application of high-throughput \
+theoretical screening in applied research. The implemented protocol can \
+also be applied to other similar applications. Additionally, the \
+material cost analysis is a good inclusion, as the authors are also \
+considering economic feasibility.\
+However, the study lacks scientific discussion, and the results are \
+reported as they are obtained. The authors didn\'92t sufficiently discuss \
+the reasons for the differences in observations among the various \
+candidates they are considering. Such a discussion is needed, at least \
+for the 8 MOFs that were finally screened.\
+For the DFT analysis, the authors performed thermodynamic screening and \
+duly noted that the kinetic barriers were not calculated. Given the \
+computations performed in this manuscript, it is necessary to include a \
+kinetic analysis to strengthen the conclusions. If the aim is to reduce \
+computational cost, the kinetic barriers (via Cl-NEB) can be performed \
+on the last 5 novel materials they have identified for experimental \
+research.\
+There are major concerns about the calculation of the total energy (in \
+eq 1). Which energy is used from the DFT results? Do they consist of \
+only DFT energy, or is there an inclusion of ZPE and entropy \
+contribution? If they are included, it should also be mentioned in the \
+computation section. If they are not included, they should also be added \
+to the energy values for more accurate results.\
+Additionally, how are the ground state geometries confirmed after SCF \
+analysis? How are the active sites and stable geometries of adsorbents \
+identified? Data on the screening of these should also be provided (at \
+least in the SI file) on adsorption energies for different active sites \
+and orientations. Also, Ref 59 is not found; check it and correct it. \
+So, the manuscript in its current form is not suitable for publication \
+in Nanoscale, but with these additional results and detailed \
+discussions, it will be suitable for publication.\
+The following are suggestions for improving clarity and ease of reading.\
+1. In Figure 4, instead of Frame 2a\'85.. in the X-axis, give the reaction \
+which is referred (Eg, CO2(ads)/*CO2)\
+2. In Table S5, instead of total energy, change it to relative energy. \
+Also, the column title can also be modified similar to Figure 4, instead \
+of add H2, add co2 \'85.\
+3. In Figure 6, instead of using different gradients of green, use three \
+distinct colors in the graph.\
+4. Table 1 should be given before section 4, as the table is first \
+mentioned in section 3.2.\
+5. While citing Websites, the date accessed should also be included.\
+\
+************\
+FILES TO PROVIDE WITH YOUR REVISED MANUSCRIPT:\
+IMPORTANT: Your original files are available to you when you upload your \
+revised manuscript. Please delete any redundant files before completing \
+the submission. Please carefully check the spelling and format of all \
+author names, affiliations and funding information. If your paper is \
+accepted for publication, it is important this information is accurate \
+to ensure your article is correctly indexed, which may affect citations \
+and future funding evaluation. Please note that if you have selected \
+Accepted Manuscript publication, the author list will appear as provided \
+in the ScholarOne submission details until your Advance Article is \
+published and this information is updated from your article.\
+\'95 A point-by-point response to the comments made by the reviewer(s). (If \
+selecting transparent peer review, please copy your full response to \
+reviewers into the \'93Your Response\'94 text box provided.)\
+\'95 Your revised manuscript with any changes clearly marked (.doc(x) \
+or.pdf file)\
+\'95 Your revised manuscript as a .doc(x) file including figures, without \
+highlighting, track changes, etc. (If providing in TeX format instead, \
+please also provide a final PDF version including figures). Please note \
+that we cannot proceed with publication using a .pdf file only.\
+\'95 High quality images\
+EITHER embedded in a doc(x) file OR as separate numbered Figures, \
+Schemes or Charts in .tif, .eps or .pdf format, with a resolution of 600 \
+dpi or greater.\
+AND\
+\'95 A table of contents entry: graphic maximum size 8 cm wide x 4 cm high \
+and 1-2 sentence(s) of editable text, with a maximum of 250 characters \
+(including spaces), highlighting the key findings of the work. It is \
+recommended authors make use of the full space available for the \
+graphic. See our Author Guidelines for more details: \
+https://www.rsc.org/journals-books-databases/author-and-reviewer-hub/\
+\'95 Your revised Supplementary Information (if any) \'95 Your revised \
+CheckCIF reports (if any). Please ensure that any revised cif files have \
+been deposited with the Cambridge Crystallographic Data Centre (CCDC) \
+via https://deposit.ccdc.cam.ac.uk/ before you submit your revised \
+manuscript.\
+For Feature Articles/Review-type articles only: \'95 A photograph and \
+biography of yourself and your co-authors. Separate photographs of each \
+author may be supplied or if you prefer, a group photograph, saved as a \
+.tif, .pdf or .jpeg file. The resolution of the photographs should be \
+600 dpi or higher. The dimensions of the photograph in the printed \
+journal will be 4 cm wide x 5 cm high (individual photograph) or 8.3 cm \
+wide x 5 cm high (group photograph). Individual photographs should be \
+accompanied by a maximum of 100 words; a group photograph by a maximum \
+of 200 words. There can be a maximum of 6 individual biographies per \
+article. \'95 Please ensure that necessary permissions are acknowledged in \
+the figure captions in accordance with the publishers\'92 instruction. \
+Information on how to obtain permissions and rights that we require are \
+given on our website at \
+https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/\
+Please keep a copy of any correspondence or licences relating to \
+permissions from other publishers for possible future reference.\
+\
+************\
+\
+If you need to contact the journal, please use the email address \
+nanoscale@rsc.org\
+\
+************************************\
+\
+DISCLAIMER:\
+\
+This communication is from The Royal Society of Chemistry, a company \
+incorporated in England by Royal Charter (registered number RC000524) \
+and a charity registered in England and Wales (charity number 207890). \
+Registered office: Burlington House, Piccadilly, London W1J 0BA. \
+Telephone: +44 (0) 20 7437 8656.\
+\
+The content of this communication (including any attachments) is \
+confidential, and may be privileged or contain copyright material. It \
+may not be relied upon or disclosed to any person other than the \
+intended recipient(s) without the consent of The Royal Society of \
+Chemistry. If you are not the intended recipient(s), please (1) notify \
+us immediately by replying to this email, (2) delete all copies from \
+your system, and (3) note that disclosure, distribution, copying or use \
+of this communication is strictly prohibited.\
+\
+Any advice given by The Royal Society of Chemistry has been carefully \
+formulated but is based on the information available to it. The Royal \
+Society of Chemistry cannot be held responsible for accuracy or \
+completeness of this communication or any attachment. Any views or \
+opinions presented in this email are solely those of the author and do \
+not represent those of The Royal Society of Chemistry. The views \
+expressed in this communication are personal to the sender and unless \
+specifically stated, this e-mail does not constitute any part of an \
+offer or contract. The Royal Society of Chemistry shall not be liable \
+for any resulting damage or loss as a result of the use of this email \
+and/or attachments, or for the consequences of any actions taken on the \
+basis of the information provided. The Royal Society of Chemistry does \
+not warrant that its emails or attachments are Virus-free; The Royal \
+Society of Chemistry has taken reasonable precautions to ensure that no \
+viruses are contained in this email, but does not accept any \
+responsibility once this email has been transmitted. Please rely on your \
+own screening of electronic communication.\
+\
+More information on The Royal Society of Chemistry can be found on our \
+website: www.rsc.org\
+--------------0oCOdBBT7szU1HCbubx3opUI\
+Content-Type: text/html; charset=UTF-8\
+Content-Transfer-Encoding: 8bit\
+\
+<!DOCTYPE html>\
+<html>\
+  <head>\
+\
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">\
+  </head>\
+  <body>\
+    Hi Moin,<br>\
+    <br>\
+    I just received the response from the editor at Nanoscale with\
+    reviewers' comments.<br>\
+    Could you read through carefully, and prepare the revisions?<br>\
+    The reviewers requested us to include some additional consideration\
+    in particular on the DFT calculations.<br>\
+    How do you think?<br>\
+    <br>\
+    Thanks,<br>\
+    <br>\
+    Best,<br>\
+    <br>\
+    Takuya<br>\
+    <br>\
+    <div class="moz-forward-container"><br>\
+      <br>\
+      -------- Forwarded Message --------\
+      <table cellpadding="0" cellspacing="0" border="0"\
+        class="moz-email-headers-table">\
+        <tbody>\
+          <tr>\
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Subject:\
+            </th>\
+            <td>Decision on submission to Nanoscale -\
+              NR-ART-04-2026-001578</td>\
+          </tr>\
+          <tr>\
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Date: </th>\
+            <td>Sat, 16 May 2026 23:22:10 +0000</td>\
+          </tr>\
+          <tr>\
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">From: </th>\
+            <td>Nanoscale <a class="moz-txt-link-rfc2396E" href="mailto:onbehalfof@manuscriptcentral.com">&lt;onbehalfof@manuscriptcentral.com&gt;</a></td>\
+          </tr>\
+          <tr>\
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Reply-To:\
+            </th>\
+            <td><a class="moz-txt-link-abbreviated" href="mailto:nanoscale@rsc.org">nanoscale@rsc.org</a></td>\
+          </tr>\
+          <tr>\
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">To: </th>\
+            <td><a class="moz-txt-link-abbreviated" href="mailto:harada@mct.isct.ac.jp">harada@mct.isct.ac.jp</a></td>\
+          </tr>\
+        </tbody>\
+      </table>\
+      <br>\
+      <br>\
+      17-May-2026<br>\
+      <br>\
+      Dear Dr Harada:<br>\
+      <br>\
+      Manuscript ID: NR-ART-04-2026-001578<br>\
+      TITLE: In Silico Screening of Metal-Organic Frameworks for\
+      CO&lt;sub&gt;2&lt;/sub&gt; Photo-Hydrogenation<br>\
+      <br>\
+      Thank you for your submission to Nanoscale, published by the Royal\
+      Society of Chemistry. I sent your manuscript to reviewers and I\
+      have now received their reports which are copied below.<br>\
+      <br>\
+      I have carefully evaluated your manuscript and the reviewers\'92\
+      reports, and the reports indicate that major revisions are\
+      necessary.<br>\
+      <br>\
+      Please submit a revised manuscript which addresses all of the\
+      reviewers\'92 comments. Further peer review of your revised\
+      manuscript may be needed. When you submit your revised manuscript\
+      please include a point by point response to the reviewers\'92\
+      comments and highlight the changes you have made. Full details of\
+      the files you need to submit are listed at the end of this email.\
+      The journal would not usually consider manuscripts through\
+      repeated rounds of revision; authors are advised to respond fully\
+      to all concerns raised by reviewers at the earliest opportunity.<br>\
+      <br>\
+      Please submit your revised manuscript as soon as possible using\
+      this link:<br>\
+      <br>\
+      *** PLEASE NOTE: This is a two-step process. After clicking on the\
+      link, you will be directed to a webpage to confirm. *** <br>\
+<a class="moz-txt-link-freetext" href="https://mc.manuscriptcentral.com/nr?URL_MASK=2a56455536e74e55a4a6d177c70d8e37">https://mc.manuscriptcentral.com/nr?URL_MASK=2a56455536e74e55a4a6d177c70d8e37</a><br>\
+      <br>\
+      (This link goes straight to your account, without the need to log\
+      on to the system. For your account security you should not share\
+      this link with others.)<br>\
+      <br>\
+      Alternatively, you can login to your account\
+      (<a class="moz-txt-link-freetext" href="https://mc.manuscriptcentral.com/nr">https://mc.manuscriptcentral.com/nr</a>) where you will need your\
+      case-sensitive USER ID and password.<br>\
+      <br>\
+      You should submit your revised manuscript as soon as possible;\
+      please note you will receive a series of automatic reminders. If\
+      your revisions will take a significant length of time, please\
+      contact me. If I do not hear from you, I may withdraw your\
+      manuscript from consideration and you will have to resubmit. Any\
+      resubmission will receive a new submission date.<br>\
+      <br>\
+      Nanoscale strongly encourages authors of research articles to\
+      include an \'91Author contributions\'92 section in their manuscript, for\
+      publication in the final article. This should appear immediately\
+      above the \'91Conflict of interest\'92 and \'91Acknowledgement\'92 sections. I\
+      strongly recommend you use CRediT (the Contributor Roles Taxonomy\
+      from CASRAI - <a class="moz-txt-link-freetext" href="https://casrai.org/credit/">https://casrai.org/credit/</a>) for standardised\
+      contribution descriptions. All authors should have agreed to their\
+      individual contributions ahead of submission and these should\
+      accurately reflect contributions to the work. Please refer to our\
+      general author guidelines\
+<a class="moz-txt-link-freetext" href="http://www.rsc.org/journals-books-databases/journal-authors-reviewers/author-responsibilities/">http://www.rsc.org/journals-books-databases/journal-authors-reviewers/author-responsibilities/</a>\
+      for more information.<br>\
+      <br>\
+      We require the submitting author to link their ORCID. This is\
+      quick and easy to do as part of the revised manuscript submission\
+      process, and it will be published with the article. For further\
+      information see:\
+      <a class="moz-txt-link-freetext" href="https://www.rsc.org/publishing/journals/processes-and-policies">https://www.rsc.org/publishing/journals/processes-and-policies</a><br>\
+      <br>\
+      Please note: to support increased transparency, Nanoscale offers\
+      authors the option of transparent peer review. If authors choose\
+      this option, the reviewers\'92 comments, authors\'92 response and\
+      editor\'92s decision letter for all versions of the manuscript are\
+      published alongside the article. Reviewers remain anonymous unless\
+      they choose to sign their report. We will ask you to confirm\
+      whether you would like to take up this option at the revision\
+      stages.<br>\
+      <br>\
+      I look forward to receiving your revised manuscript.<br>\
+      <br>\
+      Yours sincerely,<br>\
+      <br>\
+      Professor Jinlan Wang<br>\
+      Associate Editor, Nanoscale<br>\
+      Southeast University<br>\
+      China<br>\
+      <br>\
+      Journal Scope Page: rsc.li/nanoscale<br>\
+      HOT Articles: rsc.li/nanoscaleHOT<br>\
+      Recent Reviews: rsc.li/nanoscaleReviews<br>\
+      Open Access Papers: rsc.li/nanoscaleOpenAccess<br>\
+      <br>\
+      Due to the international locations and flexible working patterns\
+      of our editors, you may receive this email outside of working\
+      hours. We acknowledge that you will read or respond when it is\
+      next convenient for you to do so.<br>\
+      <br>\
+      ************<br>\
+      EDITOR\'92S COMMENTS<br>\
+      <br>\
+      I would ask that you please note the following: <br>\
+      * If any of the reviewer reports below contain recommended\
+      references to be included in your manuscript, please check them\
+      carefully and only include those you think are relevant and help\
+      improve your manuscript.<br>\
+      <br>\
+      ************<br>\
+      REVIEWER REPORT(S):<br>\
+      Referee: 1<br>\
+      <br>\
+      Comments to the Author<br>\
+      The authors have performed an intensive study whereby several\
+      thousand MOF structures are screened for their suitability in\
+      performing the photocatalytic hydrogenation of CO2. The selection\
+      criteria for each stage of the screening, and their ordering, is\
+      rational and well-reasoned. The manuscript is well written, has a\
+      logical flow and features several well crafted and informative\
+      figures. The authors have made use of several well-established\
+      tools to establish a robust workflow.<br>\
+      However, there are some serious matters for consideration,\
+      particularly with the DFT calculations, that prevent this paper\
+      from being suitable for publication.<br>\
+      \'93Photo-hydrogenation combines the advantages of both methods to\
+      accelerate the overall catalytic process by using light to promote\
+      charge excitation and separation, lowering the required heat to\
+      carry out the reaction\'94.<br>\
+      It is unclear what two methods are being referred to here. The\
+      process of excitation and separation is ubiquitous to all\
+      photocatalysis. Photo-hydrogenation appears to be a subset of\
+      photocatalytic reactions, just as electroreduction can be a subset\
+      of electrocatalysis. The authors frame photo-hydrogenation as a\
+      novel method that is entirely separate from photocatalysis, when\
+      that is not the case. Clarification is needed here. In Figure 1,\
+      the DFT analysis is shown to have taken 55 hrs and 30 mins. Is\
+      this the time taken to optimise a single intermediate, a full\
+      reaction profile on a single MOF candidate, or all reaction\
+      profiles on all selected MOF candidates?<br>\
+      It should be specified whether DFT calculations are performed with\
+      spin polarisation.<br>\
+      It is unclear to me what reaction conditions are being proposed\
+      for the photocatalytic CO2 conversion. Aqueous stability is\
+      screened for, implying a consideration for the presence of water.\
+      Are these materials intended to be immersed in an aqueous\
+      environment? Clarification on \'91humid conditions\'92 would be helpful.<br>\
+      Regarding Equation 1, it appears that the energy of any\
+      intermediate is relative to the energy of a preceding\
+      intermediate, following a sort of cumulative scheme. However, it\
+      is unclear to me why such a method is chosen for calculating the\
+      relative energies. Standard practice is to calculate all energies\
+      relative to a common reference, i.e., the clean and relaxed MOF\
+      and gas phase species. \uc0\u8710 E=E_(MOF+ads)-E_MOF-\u12310 xE\u12311 _(CO_2\
+      (g))-yE_(H_2 (g))<br>\
+      Looking at the authors proposed scheme, it may be that the\
+      adsorbate is removed from the MOF at n-1 and a single point\
+      calculation is performed on the resulting MOF configuration, but\
+      the point remains the same, that the energies appear to not have a\
+      common reference.<br>\
+      Ground state energies were calculated at the DFT-D3 level.\
+      However, in the introduction the authors claim that the\
+      photo-hydrogenation mechanism relies on charge excitation and\
+      separation. The photocatalytic mechanism for CO2 hydrogenation\
+      involves the interaction of CO2 with an excited electron to give\
+      the CO2\'96 intermediate.(1) The authors have modelled the\
+      photocatalytic mechanism as a thermocatalytic mechanism. The\
+      authors have not accounted for or discussed any excitation in the\
+      calculation of the reaction profile. How is their ground state\
+      reaction profile linked to a process involving an excited state?<br>\
+      The authors also state, \'93One exception is qmof-52ef7e9, which\
+      exhibits a slight endothermic step at initial CO2 adsorption\
+      before proceeding exothermically through the remaining steps,\
+      though this barrier should be overcome by the hydrogenation\
+      reaction conditions.\'94 What conditions are being referred to here?<br>\
+      It should be made clear that all reaction steps involve the\
+      concerted hydrogenation of CO2 intermediates. Is H2 intended to be\
+      a feedstock? Or are holes used to oxidise water and generate\
+      protons? Justification is required for not modelling individual\
+      PCET steps.<br>\
+      It is unclear if the authors have sampled different configurations\
+      for each step. i.e., Have they tried to coordinate CO2 to the\
+      metal centre via the C atom, or have they attempted to hydrogenate\
+      the oxygen atom that is coordinated to the metal centre?<br>\
+      The authors have screened 20,000 MOF structures using a correction\
+      to account for the well-known failing of GGA methods to reproduce\
+      the bandgap. While appropriate for such a large number of\
+      structures, the authors should validate the bandgaps of their\
+      successful candidate materials using a more accurate hybrid\
+      functional. This is a necessary sanity check for their workflow.<br>\
+      All DFT energies in the SI should be in eV, as that is the\
+      convention used in the main text.<br>\
+      Figures in the SI should also have captions. It is unclear what is\
+      being measured in Table/Figure S7.<br>\
+      References<br>\
+      (1) Ingham, M., Aziz, A., Di Tommaso, D., Crespo-Otero, R. Mater.\
+      Adv. 2023, 4 (22), 5388\'965419.<br>\
+      <br>\
+      <br>\
+      Referee: 2<br>\
+      <br>\
+      Comments to the Author<br>\
+      The article \'93In Silico Screening of Metal-Organic Frameworks for\
+      CO2 Photo-Hydrogenation\'94 by Moin Khwaja, Adrian Loy Chun Minh, and\
+      Takuya Harada reports a study that is highly relevant for the\
+      circular carbon economy. This study illustrates the application of\
+      high-throughput theoretical screening in applied research. The\
+      implemented protocol can also be applied to other similar\
+      applications. Additionally, the material cost analysis is a good\
+      inclusion, as the authors are also considering economic\
+      feasibility.<br>\
+      However, the study lacks scientific discussion, and the results\
+      are reported as they are obtained. The authors didn\'92t sufficiently\
+      discuss the reasons for the differences in observations among the\
+      various candidates they are considering. Such a discussion is\
+      needed, at least for the 8 MOFs that were finally screened.<br>\
+      For the DFT analysis, the authors performed thermodynamic\
+      screening and duly noted that the kinetic barriers were not\
+      calculated. Given the computations performed in this manuscript,\
+      it is necessary to include a kinetic analysis to strengthen the\
+      conclusions. If the aim is to reduce computational cost, the\
+      kinetic barriers (via Cl-NEB) can be performed on the last 5 novel\
+      materials they have identified for experimental research.<br>\
+      There are major concerns about the calculation of the total energy\
+      (in eq 1). Which energy is used from the DFT results? Do they\
+      consist of only DFT energy, or is there an inclusion of ZPE and\
+      entropy contribution? If they are included, it should also be\
+      mentioned in the computation section. If they are not included,\
+      they should also be added to the energy values for more accurate\
+      results.<br>\
+      Additionally, how are the ground state geometries confirmed after\
+      SCF analysis? How are the active sites and stable geometries of\
+      adsorbents identified? Data on the screening of these should also\
+      be provided (at least in the SI file) on adsorption energies for\
+      different active sites and orientations. Also, Ref 59 is not\
+      found; check it and correct it. So, the manuscript in its current\
+      form is not suitable for publication in Nanoscale, but with these\
+      additional results and detailed discussions, it will be suitable\
+      for publication.<br>\
+      The following are suggestions for improving clarity and ease of\
+      reading.<br>\
+      1. In Figure 4, instead of Frame 2a\'85.. in the X-axis, give the\
+      reaction which is referred (Eg, CO2(ads)/*CO2)<br>\
+      2. In Table S5, instead of total energy, change it to relative\
+      energy. Also, the column title can also be modified similar to\
+      Figure 4, instead of add H2, add co2 \'85.<br>\
+      3. In Figure 6, instead of using different gradients of green, use\
+      three distinct colors in the graph.<br>\
+      4. Table 1 should be given before section 4, as the table is first\
+      mentioned in section 3.2.<br>\
+      5. While citing Websites, the date accessed should also be\
+      included.<br>\
+      <br>\
+      ************<br>\
+      FILES TO PROVIDE WITH YOUR REVISED MANUSCRIPT:<br>\
+      IMPORTANT: Your original files are available to you when you\
+      upload your revised manuscript. Please delete any redundant files\
+      before completing the submission. Please carefully check the\
+      spelling and format of all author names, affiliations and funding\
+      information. If your paper is accepted for publication, it is\
+      important this information is accurate to ensure your article is\
+      correctly indexed, which may affect citations and future funding\
+      evaluation. Please note that if you have selected Accepted\
+      Manuscript publication, the author list will appear as provided in\
+      the ScholarOne submission details until your Advance Article is\
+      published and this information is updated from your article.<br>\
+      \'95 A point-by-point response to the comments made by the\
+      reviewer(s). (If selecting transparent peer review, please copy\
+      your full response to reviewers into the \'93Your Response\'94 text box\
+      provided.)<br>\
+      \'95 Your revised manuscript with any changes clearly marked (.doc(x)\
+      or.pdf file)<br>\
+      \'95 Your revised manuscript as a .doc(x) file including figures,\
+      without highlighting, track changes, etc. (If providing in TeX\
+      format instead, please also provide a final PDF version including\
+      figures). Please note that we cannot proceed with publication\
+      using a .pdf file only.<br>\
+      \'95 High quality images<br>\
+      EITHER embedded in a doc(x) file OR as separate numbered Figures,\
+      Schemes or Charts in .tif, .eps or .pdf format, with a resolution\
+      of 600 dpi or greater. <br>\
+      AND <br>\
+      \'95 A table of contents entry: graphic maximum size 8 cm wide x 4 cm\
+      high and 1-2 sentence(s) of editable text, with a maximum of 250\
+      characters (including spaces), highlighting the key findings of\
+      the work. It is recommended authors make use of the full space\
+      available for the graphic. See our Author Guidelines for more\
+      details:\
+      <a class="moz-txt-link-freetext" href="https://www.rsc.org/journals-books-databases/author-and-reviewer-hub/">https://www.rsc.org/journals-books-databases/author-and-reviewer-hub/</a><br>\
+      \'95 Your revised Supplementary Information (if any) \'95 Your revised\
+      CheckCIF reports (if any). Please ensure that any revised cif\
+      files have been deposited with the Cambridge Crystallographic Data\
+      Centre (CCDC) via <a class="moz-txt-link-freetext" href="https://deposit.ccdc.cam.ac.uk/">https://deposit.ccdc.cam.ac.uk/</a> before you\
+      submit your revised manuscript. <br>\
+      For Feature Articles/Review-type articles only: \'95 A photograph and\
+      biography of yourself and your co-authors. Separate photographs of\
+      each author may be supplied or if you prefer, a group photograph,\
+      saved as a .tif, .pdf or .jpeg file. The resolution of the\
+      photographs should be 600 dpi or higher. The dimensions of the\
+      photograph in the printed journal will be 4 cm wide x 5 cm high\
+      (individual photograph) or 8.3 cm wide x 5 cm high (group\
+      photograph). Individual photographs should be accompanied by a\
+      maximum of 100 words; a group photograph by a maximum of 200\
+      words. There can be a maximum of 6 individual biographies per\
+      article. \'95 Please ensure that necessary permissions are\
+      acknowledged in the figure captions in accordance with the\
+      publishers\'92 instruction. Information on how to obtain permissions\
+      and rights that we require are given on our website at\
+<a class="moz-txt-link-freetext" href="https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/">https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/</a><br>\
+      Please keep a copy of any correspondence or licences relating to\
+      permissions from other publishers for possible future reference.<br>\
+      <br>\
+      ************<br>\
+      <br>\
+      If you need to contact the journal, please use the email address\
+      <a class="moz-txt-link-abbreviated" href="mailto:nanoscale@rsc.org">nanoscale@rsc.org</a><br>\
+      <br>\
+      ************************************<br>\
+      <br>\
+      DISCLAIMER:<br>\
+      <br>\
+      This communication is from The Royal Society of Chemistry, a\
+      company incorporated in England by Royal Charter (registered\
+      number RC000524) and a charity registered in England and Wales\
+      (charity number 207890). Registered office: Burlington House,\
+      Piccadilly, London W1J 0BA. Telephone: +44 (0) 20 7437 8656.<br>\
+      <br>\
+      The content of this communication (including any attachments) is\
+      confidential, and may be privileged or contain copyright material.\
+      It may not be relied upon or disclosed to any person other than\
+      the intended recipient(s) without the consent of The Royal Society\
+      of Chemistry. If you are not the intended recipient(s), please (1)\
+      notify us immediately by replying to this email, (2) delete all\
+      copies from your system, and (3) note that disclosure,\
+      distribution, copying or use of this communication is strictly\
+      prohibited.<br>\
+      <br>\
+      Any advice given by The Royal Society of Chemistry has been\
+      carefully formulated but is based on the information available to\
+      it. The Royal Society of Chemistry cannot be held responsible for\
+      accuracy or completeness of this communication or any attachment.\
+      Any views or opinions presented in this email are solely those of\
+      the author and do not represent those of The Royal Society of\
+      Chemistry. The views expressed in this communication are personal\
+      to the sender and unless specifically stated, this e-mail does not\
+      constitute any part of an offer or contract. The Royal Society of\
+      Chemistry shall not be liable for any resulting damage or loss as\
+      a result of the use of this email and/or attachments, or for the\
+      consequences of any actions taken on the basis of the information\
+      provided. The Royal Society of Chemistry does not warrant that its\
+      emails or attachments are Virus-free; The Royal Society of\
+      Chemistry has taken reasonable precautions to ensure that no\
+      viruses are contained in this email, but does not accept any\
+      responsibility once this email has been transmitted. Please rely\
+      on your own screening of electronic communication.<br>\
+      <br>\
+      More information on The Royal Society of Chemistry can be found on\
+      our website: <a class="moz-txt-link-abbreviated" href="http://www.rsc.org">www.rsc.org</a><br>\
+    </div>\
+  </body>\
+</html>\
+\
+--------------0oCOdBBT7szU1HCbubx3opUI--\
+--------------POmgg6PMJn0HhM4Jw6vWMCEN\
+Content-Type: application/octet-stream; name="Reviewer_Comments.pdf"\
+Content-Disposition: attachment; filename="Reviewer_Comments.pdf"\
+Content-Transfer-Encoding: base64\
+\
+\
+--------------POmgg6PMJn0HhM4Jw6vWMCEN--\
+}

@@ -1,0 +1,3 @@
+@ ./temp_file_creation/feature_generation/zeo++//qmof-da6b9c1_pov.txt Unitcell_volume: 6172.13   Density: 0.374851   POAV_A^3: 4648.85 POAV_Volume_fraction: 0.7532 POAV_cm^3/g: 2.00933 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: ./temp_file_creation/feature_generation/zeo++//qmof-da6b9c1_pov.txt	0.374851	1.86	10000	0.5747	0	0.7532	0	0.0835	0.1633

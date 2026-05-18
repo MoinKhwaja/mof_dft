@@ -1,0 +1,3 @@
+@ ./temp_file_creation/feature_generation/zeo++//qmof-dc77ffa_sa.txt Unitcell_volume: 11352.4   Density: 0.562922   ASA_A^2: 2306.9 ASA_m^2/cm^3: 2032.08 ASA_m^2/g: 3609.88 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 2306.9  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

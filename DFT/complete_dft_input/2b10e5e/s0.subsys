@@ -1,0 +1,35 @@
+ &SUBSYS
+     &CELL
+        CELL_FILE_FORMAT CIF
+        CELL_FILE_NAME s0.cif
+     &END CELL
+
+     &TOPOLOGY
+       COORD_FILE_FORMAT CIF
+       COORD_FILE_NAME s0.cif
+     &END TOPOLOGY
+
+     &KIND Al
+      ELEMENT      Al
+      BASIS_SET    DZVP-MOLOPT-SR-GTH
+      POTENTIAL    GTH-PBE-q3
+    &END KIND
+
+    &KIND H
+      ELEMENT      H
+      BASIS_SET    DZVP-MOLOPT-GTH 
+      POTENTIAL    GTH-PBE-q1
+    &END KIND
+
+    &KIND C
+      ELEMENT      C
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q4 
+    &END KIND
+
+    &KIND O
+      ELEMENT      O
+      BASIS_SET    DZVP-MOLOPT-GTH
+      POTENTIAL    GTH-PBE-q6
+    &END KIND
+  &END SUBSYS

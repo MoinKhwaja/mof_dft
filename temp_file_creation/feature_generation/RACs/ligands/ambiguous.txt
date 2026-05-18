@@ -1,0 +1,1604 @@
+qmof-0a0e6b0_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-0a0e6b0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-267f8b8_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1fe2c67_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-94657de_primitive, Anchors list: {11, 3, 15, 7}, SBU connectlist: {3} set to be linker
+qmof-94657de_primitive, Anchors list: {2, 10, 6, 14}, SBU connectlist: {2} set to be linker
+qmof-94657de_primitive, Anchors list: {1, 13, 5, 9}, SBU connectlist: {1} set to be linker
+qmof-94657de_primitive, Anchors list: {0, 8, 4, 12}, SBU connectlist: {0} set to be linker
+qmof-1281756_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-049a1ce_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-697208e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-697208e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-697208e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-051e081_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-051e081_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-051e081_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-051e081_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-293c249_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-293c249_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-293c249_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-23d6b4a_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-23d6b4a_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-23d6b4a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-23d6b4a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2fe05e8_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2fe05e8_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2fe05e8_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2b10e5e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7fc8f2f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7fc8f2f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7fc8f2f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e0d0d89_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-e0d0d89_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-e0d0d89_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-e0d0d89_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e5121a9_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e5121a9_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e5121a9_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c3ab250_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c3ab250_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b762ca7_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-b762ca7_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-b762ca7_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-b762ca7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7d610e5_primitive, Anchors list: {2, 3, 5, 7}, SBU connectlist: {1} set to be linker
+qmof-7d610e5_primitive, Anchors list: {0, 1, 4, 6}, SBU connectlist: {0} set to be linker
+qmof-62a9807_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-62a9807_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-62a9807_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-62a9807_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-62a9807_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-62a9807_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-62a9807_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-62a9807_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-62a9807_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-62a9807_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-62a9807_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-62a9807_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-1ebeece_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1ebeece_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1ebeece_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1ebeece_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1ebeece_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be ligand
+qmof-1ebeece_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b193d49_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b193d49_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-da3042b_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-da3042b_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-da3042b_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-da3042b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b41eac4_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b41eac4_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b41eac4_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-94124d1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-94124d1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-94124d1_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-94124d1_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-94124d1_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-94124d1_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-930e104_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-930e104_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-930e104_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7d9f443_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7d9f443_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7d9f443_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f204bbf_primitive, Anchors list: {0, 2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-f204bbf_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f204bbf_primitive, Anchors list: {0, 1, 3, 5}, SBU connectlist: {0} set to be linker
+qmof-c213cea_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c213cea_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c213cea_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bde286b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bde286b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bde286b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-976b7ca_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-976b7ca_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fd83467_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d72df68_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d72df68_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d72df68_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d72df68_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d72df68_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d72df68_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-39e9da1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-39e9da1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-39e9da1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4972f5c_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4972f5c_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4972f5c_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b2c1af9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b2c1af9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b2c1af9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6bcd96c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6bcd96c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6bcd96c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b3cc9c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b3cc9c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b3cc9c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-248a9de_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-248a9de_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-248a9de_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-248a9de_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-248a9de_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-248a9de_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7245894_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-7245894_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-72b3537_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d73089e_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-d73089e_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-d73089e_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-d73089e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-6df3cab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6df3cab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6df3cab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ba030f6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ba030f6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ba030f6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d9a330a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d9a330a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d9a330a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-48a177e_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-48a177e_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-48a177e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-48a177e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-118c062_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-118c062_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-118c062_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b5538fe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-69ba23e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-69ba23e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-69ba23e_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-69ba23e_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-69ba23e_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-69ba23e_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8eb67f4_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8eb67f4_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8eb67f4_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8eb67f4_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8eb67f4_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8eb67f4_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-44fa197_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-44fa197_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-44fa197_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-44fa197_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-44fa197_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-44fa197_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d67cf85_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d67cf85_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d67cf85_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-72626ed_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ea00196_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ea00196_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ea00196_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-509725a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-509725a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-509725a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-66696cd_primitive, Anchors list: {3, 11, 5, 15}, SBU connectlist: {3} set to be linker
+qmof-66696cd_primitive, Anchors list: {10, 2, 4, 14}, SBU connectlist: {2} set to be linker
+qmof-66696cd_primitive, Anchors list: {9, 13, 1, 7}, SBU connectlist: {1} set to be linker
+qmof-66696cd_primitive, Anchors list: {8, 0, 12, 6}, SBU connectlist: {0} set to be linker
+qmof-b6ee5ae_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b6ee5ae_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2ba6a09_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2ba6a09_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2ba6a09_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2ba6a09_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2ba6a09_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2ba6a09_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+Structure qmof-7da852c_primitive has extremely short ligands, check the outputs
+qmof-ab26a1c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-617a25d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-617a25d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-617a25d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+Structure qmof-1f66d12_primitive has extremely short ligands, check the outputs
+qmof-cfc7cec_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-cfc7cec_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-cfc7cec_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-cfc7cec_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-95ec286_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-95ec286_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-95ec286_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-495436a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2155e19_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2155e19_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2155e19_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2d90005_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2d90005_primitive, Anchors list: {0, 1, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3854840_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3854840_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3854840_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-77442e8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-77442e8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-77442e8_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-77442e8_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-77442e8_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-77442e8_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f4dec33_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f4dec33_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-dcf8019_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dcf8019_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dcf8019_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c80cf5d_primitive, Anchors list: {3, 11, 6, 15}, SBU connectlist: {3} set to be linker
+qmof-c80cf5d_primitive, Anchors list: {10, 2, 14, 7}, SBU connectlist: {2} set to be linker
+qmof-c80cf5d_primitive, Anchors list: {9, 4, 13, 1}, SBU connectlist: {1} set to be linker
+qmof-c80cf5d_primitive, Anchors list: {8, 0, 12, 5}, SBU connectlist: {0} set to be linker
+qmof-56ad7f4_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-56ad7f4_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-56ad7f4_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-56ad7f4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c59df0d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c59df0d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c59df0d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f4ad3f6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f4ad3f6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f4ad3f6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9b2e2e4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9b2e2e4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9b2e2e4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8333f8b_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-8333f8b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-305bca1_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-305bca1_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9f315fd_primitive, Anchors list: {3}, SBU connectlist: {1} set to be linker
+qmof-9f315fd_primitive, Anchors list: {2}, SBU connectlist: {0} set to be linker
+qmof-9f315fd_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-9f315fd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3fb24cf_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-3fb24cf_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2fabd00_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5d1aafb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5d1aafb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5d1aafb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d54db96_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9ab4e0a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0e9f38c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-11f7d05_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-51b86a2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4e43b18_primitive, Anchors list: {1, 3}, SBU connectlist: {1} set to be linker
+qmof-4e43b18_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+qmof-4e43b18_primitive, Anchors list: {1, 3}, SBU connectlist: {1} set to be linker
+qmof-4e43b18_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+qmof-bd7e56c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c7fd3ee_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-492bc03_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-492bc03_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-492bc03_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4687641_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e631bf0_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-e631bf0_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-e631bf0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e631bf0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5c6eaa8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5c6eaa8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5c6eaa8_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5c6eaa8_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5c6eaa8_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5c6eaa8_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-67247ca_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-69c9d0b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-69c9d0b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-69c9d0b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d29cec2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d29cec2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d29cec2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-04b3122_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-04b3122_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-cfc22da_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-cfc22da_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-cfc22da_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0cd6fd3_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0cd6fd3_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0cd6fd3_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b5f02ff_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b5f02ff_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b5f02ff_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b5f02ff_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b5f02ff_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b5f02ff_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b85094e_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-b85094e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5c418c0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-38e57cf_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-fa2b07a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fa2b07a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fa2b07a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a1e8177_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-a1e8177_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-a1e8177_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-a1e8177_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-82a687d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-82a687d_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-03d0e0b_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-03d0e0b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-aed36d7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3dafa19_primitive, Anchors list: {1, 3, 4, 7}, SBU connectlist: {0} set to be linker
+qmof-3dafa19_primitive, Anchors list: {0, 2, 5, 6}, SBU connectlist: {0} set to be linker
+qmof-3dafa19_primitive, Anchors list: {1, 2, 4, 6}, SBU connectlist: {0} set to be linker
+qmof-3dafa19_primitive, Anchors list: {0, 3, 5, 7}, SBU connectlist: {0} set to be linker
+qmof-3dafa19_primitive, Anchors list: {2, 3, 6, 7}, SBU connectlist: {0} set to be linker
+qmof-3dafa19_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0d43f7f_primitive, Anchors list: {1, 3}, SBU connectlist: {1} set to be linker
+qmof-0d43f7f_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+qmof-4b9877b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8995d9d_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8995d9d_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8995d9d_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4028dc6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e62d92a_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-7649be8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7649be8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7649be8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e05a715_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e05a715_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e05a715_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7c9951b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7c9951b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7c9951b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ea67c6a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ea67c6a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ea67c6a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e5a5a08_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e5a5a08_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e5a5a08_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8169402_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-8169402_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9393f87_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-6cf7eac_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0a253bb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-08cbfe6_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-08cbfe6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f7ee91d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f7ee91d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f7ee91d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-35a1fbe_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-35a1fbe_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f8266a0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-b0410f7_primitive has extremely short ligands, check the outputs
+qmof-36637a2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-36637a2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-36637a2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-71d1286_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-71d1286_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-71d1286_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e566fbb_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-e566fbb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-cc10ecd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-cc10ecd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-cc10ecd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-61cbd6c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-61cbd6c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-61cbd6c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8a03db4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5ec1870_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5ec1870_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5ec1870_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5ec1870_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5ec1870_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5ec1870_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+Structure qmof-39ac50b_primitive has extremely short ligands, check the outputs
+Structure qmof-f05406c_primitive has extremely short ligands, check the outputs
+qmof-17962ea_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-17962ea_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-17962ea_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-17962ea_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-17962ea_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-17962ea_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c00a6c1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c00a6c1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c00a6c1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-db4af19_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-735264a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-735264a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-735264a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-da6b9c1_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-da6b9c1_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-da6b9c1_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-00f0897_primitive has extremely short ligands, check the outputs
+qmof-9b20de3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c0f392b_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-c0f392b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c5ff6a1_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c5ff6a1_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ca4b8ca_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ca4b8ca_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ca4b8ca_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ca4b8ca_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ca4b8ca_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ca4b8ca_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-41ae7d7_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-41ae7d7_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-41ae7d7_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6f53b55_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6f53b55_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6f53b55_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-34bb4c6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-34bb4c6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-34bb4c6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-31bac1a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-31bac1a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-963fe22_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-963fe22_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-963fe22_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-fbe14b0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-fbe14b0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-fbe14b0_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fbe14b0_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fbe14b0_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fbe14b0_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e647ae3_primitive, Anchors list: {7}, SBU connectlist: {7} set to be linker
+qmof-e647ae3_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand
+qmof-e647ae3_primitive, Anchors list: {5}, SBU connectlist: {5} set to be ligand
+qmof-e647ae3_primitive, Anchors list: {4}, SBU connectlist: {4} set to be ligand
+qmof-e647ae3_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-e647ae3_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-e647ae3_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-e647ae3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-2b64584_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-2b64584_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-2b64584_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2b64584_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3b397bb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3b397bb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3b397bb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-747ed4e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-747ed4e_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9135e11_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-9135e11_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-9135e11_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9135e11_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-de2dc2d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-de2dc2d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-de2dc2d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a559dcb_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a559dcb_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a559dcb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a559dcb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a559dcb_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a559dcb_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5ad780f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5ad780f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5ad780f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a33f06a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a33f06a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a33f06a_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a33f06a_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a33f06a_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a33f06a_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b86e0e7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b7e9d20_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b7e9d20_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b7e9d20_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-38ae9d1_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b9fbd8b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b9fbd8b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b9fbd8b_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b9fbd8b_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b9fbd8b_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b9fbd8b_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+Structure qmof-e7e4053_primitive has extremely short ligands, check the outputs
+qmof-ecbc6ec_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ecbc6ec_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-84455bc_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-84455bc_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-47bbdd7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-47bbdd7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-47bbdd7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-20874c7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-20874c7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-20874c7_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-20874c7_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-20874c7_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-20874c7_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-37c4e53_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-37c4e53_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b923499_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b923499_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-270bfcd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-270bfcd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-270bfcd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bd5b750_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bd5b750_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bd5b750_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8573227_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8ee1311_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8ee1311_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8ee1311_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d675ae6_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d675ae6_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d675ae6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d675ae6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d675ae6_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d675ae6_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0798d7e_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6800a56_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-cef46c3_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-cef46c3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e2c1370_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e2c1370_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-25b107a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-25b107a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-25b107a_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-25b107a_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-25b107a_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-25b107a_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ac2c305_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ac2c305_primitive, Anchors list: {2, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-ac2c305_primitive, Anchors list: {2, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-ac2c305_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-14375bc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3c1695e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3c1695e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3c1695e_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3c1695e_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3c1695e_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3c1695e_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b893edd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8b12648_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-8b12648_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-8b12648_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-8b12648_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b3220dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b3220dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b3220dc_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b3220dc_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b3220dc_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b3220dc_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c1189cc_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-c1189cc_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-c1189cc_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-c1189cc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7b65be8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b65be8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b65be8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9b8979a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9b8979a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9b8979a_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9b8979a_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9b8979a_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9b8979a_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-45ac749_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b6a1c15_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-275ec22_primitive has extremely short ligands, check the outputs
+qmof-d4f01fe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d4f01fe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d4f01fe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-94df011_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-94df011_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-94df011_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3a3414f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-72a3c74_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-72a3c74_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-72a3c74_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5adffdd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5adffdd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5adffdd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d8224dc_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-d8224dc_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-d8224dc_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-d8224dc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-53e44f4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f212589_primitive, Anchors list: {1, 3, 5}, SBU connectlist: {0} set to be linker
+qmof-f212589_primitive, Anchors list: {1, 2, 4}, SBU connectlist: {0} set to be linker
+qmof-f212589_primitive, Anchors list: {0, 3, 5}, SBU connectlist: {0} set to be linker
+qmof-f212589_primitive, Anchors list: {0, 2, 4}, SBU connectlist: {0} set to be linker
+qmof-b9a2124_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b9a2124_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-f275516_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f275516_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-df6f7f2_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-df6f7f2_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-df6f7f2_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d5e3f1f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e731356_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-e731356_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-e731356_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-e731356_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-e731356_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-e731356_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-e731356_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-e731356_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-e731356_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-e731356_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-e731356_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-e731356_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-a9bd3f7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a9bd3f7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a9bd3f7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bc76ca2_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-bc76ca2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bc76ca2_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-bc76ca2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bc76ca2_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-bc76ca2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-201af6e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-201af6e_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-62af439_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-19172d5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-19172d5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-19172d5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4010ec2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4e29e0b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4e29e0b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4e29e0b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-aed4501_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-aed4501_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-aed4501_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-dc2dcc2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dc2dcc2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dc2dcc2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-17c6faa_primitive, Anchors list: {1, 3, 5}, SBU connectlist: {0} set to be linker
+qmof-17c6faa_primitive, Anchors list: {0, 2, 4}, SBU connectlist: {0} set to be linker
+qmof-17c6faa_primitive, Anchors list: {1, 3, 5}, SBU connectlist: {0} set to be linker
+qmof-17c6faa_primitive, Anchors list: {0, 2, 4}, SBU connectlist: {0} set to be linker
+qmof-17c6faa_primitive, Anchors list: {1, 3, 5}, SBU connectlist: {0} set to be linker
+qmof-17c6faa_primitive, Anchors list: {0, 2, 4}, SBU connectlist: {0} set to be linker
+qmof-9f78012_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5f3c10f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-981716b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-831c36b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-831c36b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-831c36b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-db6fde8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-db6fde8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-db6fde8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f065623_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1ed0c50_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1ed0c50_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1ed0c50_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-356051c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7e9c77b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7e9c77b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7e9c77b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e635eb9_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e635eb9_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-305c717_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-305c717_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-305c717_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-da76944_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-da76944_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-da76944_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9db0389_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9db0389_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-97ab01d_primitive, Anchors list: {2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-97ab01d_primitive, Anchors list: {0, 1, 4}, SBU connectlist: {0} set to be linker
+qmof-5f966d0_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-5f966d0_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-5f966d0_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-5f966d0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-dd62091_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-dd62091_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-dd62091_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-233f752_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4ad733e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4ad733e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4ad733e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3d7f145_primitive, Anchors list: {1, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-3d7f145_primitive, Anchors list: {1, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-3d7f145_primitive, Anchors list: {1, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-3d7f145_primitive, Anchors list: {0, 2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-3d7f145_primitive, Anchors list: {0, 2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-3d7f145_primitive, Anchors list: {0, 2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-1fd70f2_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ecea9da_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ecea9da_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ecea9da_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b6953dc_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b6953dc_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b6953dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b6953dc_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b6953dc_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b6953dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-807faf2_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-807faf2_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-807faf2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-807faf2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3168ba7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3168ba7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3168ba7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-244f5c8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-244f5c8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-244f5c8_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-244f5c8_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-244f5c8_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-244f5c8_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-dd2c786_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-dd2c786_primitive, Anchors list: {2, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-dd2c786_primitive, Anchors list: {2, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-dd2c786_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3daccc9_primitive, Anchors list: {8, 9, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-3daccc9_primitive, Anchors list: {8, 9, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-3daccc9_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3daccc9_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f64ae73_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c0b261d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c0b261d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c0b261d_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c0b261d_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c0b261d_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c0b261d_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-c8860bc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c8860bc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c8860bc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-167482e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-167482e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-167482e_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-167482e_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-167482e_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-167482e_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3311ce4_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3311ce4_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3311ce4_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02ef78f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02ef78f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02ef78f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ba63d77_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ba63d77_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ba63d77_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ba63d77_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ba63d77_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ba63d77_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-465ca4f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-6ad0afb_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6ad0afb_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6ad0afb_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-37d4c1f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-37d4c1f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-37d4c1f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-37d4c1f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-37d4c1f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-37d4c1f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3bb58fe_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3bb58fe_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6241b50_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f2b2497_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-f2b2497_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-f2b2497_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-f2b2497_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ad41715_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ad41715_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ad41715_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b0c92ad_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-76aeb73_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-76aeb73_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-76aeb73_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c0c19d2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c0c19d2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c0c19d2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ed6a1d6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ed6a1d6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ed6a1d6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-656e696_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f0d9701_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f0d9701_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f0d9701_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-08ad999_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-08ad999_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-08ad999_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b7fb8de_primitive, Anchors list: {3, 4, 5, 6, 7, 8}, SBU connectlist: {0} set to be linker
+qmof-b7fb8de_primitive, Anchors list: {0, 1, 2, 9, 10, 11}, SBU connectlist: {0} set to be linker
+qmof-b7fb8de_primitive, Anchors list: {3, 4, 5, 6, 7, 8}, SBU connectlist: {0} set to be linker
+qmof-b7fb8de_primitive, Anchors list: {0, 1, 2, 9, 10, 11}, SBU connectlist: {0} set to be linker
+qmof-f5a950b_primitive, Anchors list: {2, 3, 5, 7}, SBU connectlist: {1} set to be linker
+qmof-f5a950b_primitive, Anchors list: {0, 1, 4, 6}, SBU connectlist: {0} set to be linker
+qmof-c07a718_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c07a718_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c07a718_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8955ecc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8955ecc_primitive, Anchors list: {0, 1, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-af3ceb6_primitive, Anchors list: {9, 11, 14, 15}, SBU connectlist: {3} set to be linker
+qmof-af3ceb6_primitive, Anchors list: {8, 10, 12, 13}, SBU connectlist: {2} set to be linker
+qmof-af3ceb6_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-af3ceb6_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-340b60d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-6ebfed4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8a5df04_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-e2e3deb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e2e3deb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e2e3deb_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e2e3deb_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e2e3deb_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e2e3deb_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-74552cd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-09bb6ee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-09bb6ee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-09bb6ee_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-09bb6ee_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-09bb6ee_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-09bb6ee_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-380c3ba_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-301845c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-301845c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-301845c_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-301845c_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-301845c_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-301845c_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-39ee1ff_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-39ee1ff_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-39ee1ff_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-465da86_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-993a419_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-993a419_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-993a419_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-993a419_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-adb2c4d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0147aef_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0147aef_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-07c0f40_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-413599e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-413599e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-413599e_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-276e333_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-276e333_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-276e333_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-47c6a17_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-47c6a17_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3eec122_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-3eec122_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-3eec122_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-bedf07c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-0e2fb56_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0e2fb56_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0e2fb56_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d159ad9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d159ad9_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d159ad9_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d159ad9_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d159ad9_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d159ad9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-fbd20d4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-c7fdbb6_primitive has extremely short ligands, check the outputs
+qmof-721171e_primitive, Anchors list: {8, 9, 0, 1}, SBU connectlist: {0} set to be linker
+qmof-721171e_primitive, Anchors list: {2, 3, 10, 11}, SBU connectlist: {1} set to be linker
+qmof-721171e_primitive, Anchors list: {4, 5, 12, 13}, SBU connectlist: {2} set to be linker
+qmof-721171e_primitive, Anchors list: {6, 7, 14, 15}, SBU connectlist: {3} set to be linker
+qmof-721171e_primitive, Anchors list: {6, 7, 14, 15}, SBU connectlist: {3} set to be linker
+qmof-721171e_primitive, Anchors list: {4, 5, 12, 13}, SBU connectlist: {2} set to be linker
+qmof-721171e_primitive, Anchors list: {2, 3, 10, 11}, SBU connectlist: {1} set to be linker
+qmof-721171e_primitive, Anchors list: {8, 9, 0, 1}, SBU connectlist: {0} set to be linker
+qmof-93f225f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-93f225f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-93f225f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-93f225f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-93f225f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-93f225f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2cc02cf_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-568a548_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-568a548_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-568a548_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-568a548_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-568a548_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-568a548_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-568a548_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-568a548_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-568a548_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-568a548_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-568a548_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-568a548_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-c915553_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c915553_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c915553_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0fe96c4_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-0fe96c4_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {3}, SBU connectlist: {2} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {2}, SBU connectlist: {3} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {3}, SBU connectlist: {2} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {2}, SBU connectlist: {3} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-8aafb2a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-5f9a1bc_primitive has extremely short ligands, check the outputs
+qmof-3663888_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-3663888_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-3663888_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-3663888_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-3663888_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-3663888_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-861ea4a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-861ea4a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-861ea4a_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a17635d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a17635d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a17635d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-131c306_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-131c306_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-131c306_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1db67f1_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1db67f1_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ef49ee3_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-ef49ee3_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-2239292_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2239292_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2239292_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2239292_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2239292_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2239292_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e2ef939_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-e2ef939_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-08dfcd6_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {5}, SBU connectlist: {5} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {4}, SBU connectlist: {4} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {4}, SBU connectlist: {4} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-08dfcd6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-52a36da_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b078db5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b078db5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b078db5_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b078db5_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b078db5_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b078db5_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e1c9cee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e1c9cee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e1c9cee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-88adb93_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c67339d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c67339d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c67339d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9619575_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-9619575_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-6a02a00_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6a02a00_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6a02a00_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6a02a00_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6a02a00_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6a02a00_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-95e9665_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5d3b73f_primitive, Anchors list: {1, 3}, SBU connectlist: {1} set to be linker
+qmof-5d3b73f_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+qmof-53df169_primitive, Anchors list: {0, 1, 2}, SBU connectlist: {0} set to be linker
+qmof-53df169_primitive, Anchors list: {0, 1, 2}, SBU connectlist: {0} set to be linker
+qmof-92e7fb5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d6d6f9f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d6d6f9f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d6d6f9f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3aea4c9_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3aea4c9_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3aea4c9_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e2e4331_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e2e4331_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2bf6c21_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2bf6c21_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2bf6c21_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ddab43b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ddab43b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ddab43b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4138536_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b890eba_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b890eba_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b890eba_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b890eba_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b890eba_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b890eba_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d9284c9_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f6f3d84_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f6f3d84_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e961d42_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e961d42_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e961d42_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+Structure qmof-3bfcb01_primitive has extremely short ligands, check the outputs
+qmof-4d978c3_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4d978c3_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4d978c3_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4d978c3_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4d978c3_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4d978c3_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1c59969_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1c59969_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1c59969_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-cf5a8b5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5108c60_primitive, Anchors list: {6}, SBU connectlist: {6} set to be linker
+qmof-5108c60_primitive, Anchors list: {7}, SBU connectlist: {7} set to be linker
+qmof-5108c60_primitive, Anchors list: {4}, SBU connectlist: {4} set to be linker
+qmof-5108c60_primitive, Anchors list: {5}, SBU connectlist: {5} set to be linker
+qmof-5108c60_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-5108c60_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-5108c60_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5108c60_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-2308de6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2308de6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2308de6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-32df618_primitive, Anchors list: {8, 9, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-32df618_primitive, Anchors list: {8, 9, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-32df618_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-32df618_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-55dca9b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-dd69f1d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-605c8c0_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-605c8c0_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-605c8c0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-64da900_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-64da900_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-64da900_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-64da900_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-64da900_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-64da900_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a8728d7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a8728d7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a8728d7_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a8728d7_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a8728d7_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a8728d7_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-74326df_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-74326df_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-74326df_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7cb0c4e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1035838_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1035838_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-02c7dcc_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-02c7dcc_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-02c7dcc_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-02c7dcc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-02c7dcc_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-02c7dcc_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-02c7dcc_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-02c7dcc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-2d0ea93_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2d0ea93_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2d0ea93_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bd899c1_primitive, Anchors list: {2, 3}, SBU connectlist: {0} set to be linker
+qmof-bd899c1_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-bd899c1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bd899c1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bbbed4f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-bbbed4f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-bbbed4f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7b2d9bd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b2d9bd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b2d9bd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dbb3d3c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3cb39d1_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-db13ee3_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-db13ee3_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ff5bd85_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ff5bd85_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-ff5bd85_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+Structure qmof-126dd4e_primitive has extremely short ligands, check the outputs
+qmof-15f7608_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-15f7608_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-5658f69_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5658f69_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5658f69_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9f581d4_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-fc98c57_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fc98c57_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fc98c57_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e372899_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-e372899_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7644c77_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7644c77_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7644c77_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7644c77_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7644c77_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7644c77_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-adb1dab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-adb1dab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-adb1dab_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-adb1dab_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-adb1dab_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-adb1dab_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-aa5a1e3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-362bef5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-362bef5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-362bef5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-45eb13a_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-45eb13a_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-45eb13a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-45eb13a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-23d6bfc_primitive has extremely short ligands, check the outputs
+qmof-06d4779_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7f34f70_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7f34f70_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7f34f70_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-144d405_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-144d405_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a7efc17_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a7efc17_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a7efc17_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-40d9081_primitive, Anchors list: {3, 4, 5, 6}, SBU connectlist: {0} set to be linker
+qmof-40d9081_primitive, Anchors list: {0, 1, 3, 6}, SBU connectlist: {0} set to be linker
+qmof-40d9081_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-40d9081_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-40d9081_primitive, Anchors list: {0, 1, 3, 6}, SBU connectlist: {0} set to be linker
+qmof-1a2e603_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1a2e603_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1a2e603_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9b53dfb_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-223436e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-be54856_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-be54856_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-be54856_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-22c6575_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-22c6575_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-22c6575_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2d2b8f2_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-2d2b8f2_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-2d2b8f2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2d2b8f2_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-45b64b9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-45b64b9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8421750_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-aa2679c_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-aa2679c_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-aa2679c_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9e4a54b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b93f934_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-b93f934_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-b93f934_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b93f934_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d9ca2be_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-920fac3_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-920fac3_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-920fac3_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-920fac3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-200045d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-200045d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-200045d_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e6c9a83_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e6c9a83_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e6c9a83_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e6c9a83_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e6c9a83_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-e6c9a83_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fbd219f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-21f0ad6_primitive has extremely short ligands, check the outputs
+qmof-5356c15_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5356c15_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5356c15_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-faede09_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-faede09_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0f9e66f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0f9e66f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0f9e66f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4fb11b1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4fb11b1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4fb11b1_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4fb11b1_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4fb11b1_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4fb11b1_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4513e39_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4513e39_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4513e39_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9525030_primitive, Anchors list: {9, 11, 14, 15}, SBU connectlist: {2} set to be linker
+qmof-9525030_primitive, Anchors list: {8, 10, 12, 13}, SBU connectlist: {3} set to be linker
+qmof-9525030_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-9525030_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7ccc745_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7817ae0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-76f9a91_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-545f7ee_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-545f7ee_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-545f7ee_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f62972b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f62972b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-f62972b_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0bbe221_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0bbe221_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0bbe221_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-557afbb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-557afbb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-557afbb_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a0717aa_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-a0717aa_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-a0717aa_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-a0717aa_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3736d07_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3736d07_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1594a7d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7964502_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7964502_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7964502_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7964502_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7964502_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7964502_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2831c65_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2831c65_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2831c65_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-834ccb4_primitive, Anchors list: {3, 4, 5, 6, 7, 8}, SBU connectlist: {0} set to be linker
+qmof-834ccb4_primitive, Anchors list: {0, 1, 2, 9, 10, 11}, SBU connectlist: {0} set to be linker
+qmof-834ccb4_primitive, Anchors list: {3, 4, 5, 6, 7, 8}, SBU connectlist: {0} set to be linker
+qmof-834ccb4_primitive, Anchors list: {0, 1, 2, 9, 10, 11}, SBU connectlist: {0} set to be linker
+qmof-03acc57_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-03acc57_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-03acc57_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a797022_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a797022_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a797022_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a797022_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a797022_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a797022_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-0acccbc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0acccbc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0acccbc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-cc249f5_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-cc249f5_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-cc249f5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-cc249f5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-8625e5f_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-8625e5f_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-8625e5f_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-8625e5f_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-3ce4a78_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3ce4a78_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3ce4a78_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3ce4a78_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3ce4a78_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3ce4a78_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9277d51_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9277d51_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-9277d51_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {7}, SBU connectlist: {7} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {6}, SBU connectlist: {6} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {5}, SBU connectlist: {5} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {4}, SBU connectlist: {4} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-28e7dd1_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4b70fb1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4b70fb1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4b70fb1_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4b70fb1_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4b70fb1_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4b70fb1_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d441ad0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d441ad0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d441ad0_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d441ad0_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d441ad0_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d441ad0_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a3dbed5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a3dbed5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a3dbed5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02f3753_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02f3753_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02f3753_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-02f3753_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-02f3753_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-02f3753_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fb68eb8_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a67842f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a67842f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a67842f_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-cd1371c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7e2adaf_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-7e2adaf_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-7e2adaf_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7e2adaf_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dd9198d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-dd9198d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-dd9198d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2039712_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2039712_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-2039712_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-52169d5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-52169d5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-52169d5_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-52169d5_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-52169d5_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-52169d5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-33c5b15_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-82f8bae_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-82f8bae_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-82f8bae_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+Structure qmof-7ae923a_primitive has extremely short ligands, check the outputs
+qmof-af907bf_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-af907bf_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-af907bf_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-af907bf_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-af907bf_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-af907bf_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-53701e5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-53701e5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-53701e5_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-e3d0456_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-e3d0456_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b46941a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-b46941a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-b46941a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b46941a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5d39206_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5d39206_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-5d39206_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2eac1e9_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+qmof-2eac1e9_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-9ad6bff_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9ad6bff_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-978268d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-7fe12e1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7fe12e1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7fe12e1_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f18d717_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f18d717_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f18d717_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2c42f2a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4bbe9a9_primitive, Anchors list: {1, 3, 4, 7}, SBU connectlist: {0} set to be linker
+qmof-4bbe9a9_primitive, Anchors list: {0, 2, 5, 6}, SBU connectlist: {0} set to be linker
+qmof-4bbe9a9_primitive, Anchors list: {1, 2, 4, 6}, SBU connectlist: {0} set to be linker
+qmof-4bbe9a9_primitive, Anchors list: {0, 3, 5, 7}, SBU connectlist: {0} set to be linker
+qmof-4bbe9a9_primitive, Anchors list: {2, 3, 6, 7}, SBU connectlist: {0} set to be linker
+qmof-4bbe9a9_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b839d0c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b839d0c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b839d0c_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-3019c97_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-3019c97_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2530fd3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2530fd3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2530fd3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-0929129_primitive has extremely short ligands, check the outputs
+qmof-075218d_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3ae6dad_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-3ae6dad_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-fbac6ec_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-fbac6ec_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-fbac6ec_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-fbac6ec_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-564af28_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-564af28_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-14acde3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-975986a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-975986a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-975986a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7c73cbd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-7c73cbd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-7c73cbd_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-7c73cbd_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-7c73cbd_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-7c73cbd_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+Structure qmof-ef32174_primitive has extremely short ligands, check the outputs
+qmof-baa76cb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-baa76cb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-baa76cb_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-3d7169c_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-3d7169c_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-3b48e5d_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-3b48e5d_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be ligand
+qmof-3b48e5d_primitive, Anchors list: {1, 2}, SBU connectlist: {0} set to be ligand
+Structure qmof-7c271cd_primitive has extremely short ligands, check the outputs
+qmof-6ca03ae_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4300cc0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4300cc0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4300cc0_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-21a886a_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-21a886a_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+qmof-18e2d2f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-18e2d2f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-18e2d2f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-18e2d2f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-18e2d2f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-18e2d2f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-a3be11a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-b06e757_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-379b14c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-44ebd89_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-44ebd89_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-44ebd89_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-44ebd89_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f598a6c_primitive, Anchors list: {6, 7}, SBU connectlist: {1} set to be linker
+qmof-f598a6c_primitive, Anchors list: {4, 6}, SBU connectlist: {1} set to be ligand
+qmof-f598a6c_primitive, Anchors list: {4, 5}, SBU connectlist: {1} set to be linker
+qmof-f598a6c_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+qmof-f598a6c_primitive, Anchors list: {2, 3}, SBU connectlist: {0} set to be linker
+qmof-f598a6c_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+Structure qmof-f598a6c_primitive has extremely short ligands, check the outputs
+qmof-ba1bd18_primitive, Anchors list: {2, 3, 5, 7}, SBU connectlist: {1} set to be linker
+qmof-ba1bd18_primitive, Anchors list: {0, 1, 4, 6}, SBU connectlist: {0} set to be linker
+qmof-f23efa9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f23efa9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f23efa9_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-2875770_primitive, Anchors list: {5, 7}, SBU connectlist: {1} set to be linker
+qmof-2875770_primitive, Anchors list: {1, 3}, SBU connectlist: {0} set to be linker
+qmof-2875770_primitive, Anchors list: {6, 7}, SBU connectlist: {1} set to be linker
+qmof-2875770_primitive, Anchors list: {4, 5}, SBU connectlist: {1} set to be linker
+qmof-2875770_primitive, Anchors list: {2, 3}, SBU connectlist: {0} set to be linker
+qmof-2875770_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+Structure qmof-2875770_primitive has extremely short ligands, check the outputs
+Structure qmof-1d4f4cd_primitive has extremely short ligands, check the outputs
+qmof-431b93f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-431b93f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-431b93f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-79f4fee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-79f4fee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-79f4fee_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-0d2f6a6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0d2f6a6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-0d2f6a6_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-db2cdc7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-ac6a77a_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-ac6a77a_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-ac6a77a_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-ac6a77a_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-876342b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-876342b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-876342b_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c5b0b23_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-91c931c_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-91c931c_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-91c931c_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-91c931c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-f7478bc_primitive, Anchors list: {5}, SBU connectlist: {5} set to be ligand
+qmof-f7478bc_primitive, Anchors list: {4}, SBU connectlist: {4} set to be linker
+qmof-f7478bc_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-f7478bc_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-f7478bc_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-f7478bc_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d38bd9e_primitive, Anchors list: {0, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d38bd9e_primitive, Anchors list: {1, 3, 6, 7}, SBU connectlist: {1} set to be linker
+qmof-99cef49_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-2d0fa88_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-2d0fa88_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-2d0fa88_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-2d0fa88_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-20f15a8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-20f15a8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-20f15a8_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-05f5f6e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-05f5f6e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-05f5f6e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-d038f1b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-89ecd19_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-89ecd19_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-89ecd19_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure qmof-fd1a91f_primitive has extremely short ligands, check the outputs
+qmof-a51c5af_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a51c5af_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-a51c5af_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-927d241_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-927d241_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-927d241_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-91ef893_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-91ef893_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-91ef893_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-60da571_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-60da571_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-60da571_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-02c07e3_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a5a012b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c2974b7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c2974b7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c2974b7_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-1cc6d2b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1cc6d2b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1cc6d2b_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1b3e3c5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1b3e3c5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-1b3e3c5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-a2ebc30_primitive, Anchors list: {0, 1, 5}, SBU connectlist: {0} set to be linker
+qmof-a2ebc30_primitive, Anchors list: {0, 1, 5}, SBU connectlist: {0} set to be linker
+qmof-a2ebc30_primitive, Anchors list: {2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-a2ebc30_primitive, Anchors list: {2, 3, 4}, SBU connectlist: {0} set to be linker
+qmof-72f9f6f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-72f9f6f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-72f9f6f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7b7886a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7b7886a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7b7886a_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d46f640_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d46f640_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-d46f640_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d46f640_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d46f640_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-d46f640_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-1879cfe_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-1879cfe_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-c6d5b12_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c6d5b12_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-c6d5b12_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+Structure qmof-5f5a465_primitive has extremely short ligands, check the outputs
+qmof-6b810b0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6b810b0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6b810b0_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-bc64fc7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bc64fc7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-bc64fc7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-eca76af_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-eca76af_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-5c0d0b5_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-762f2c9_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-762f2c9_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+Structure qmof-b5b8b3e_primitive has extremely short ligands, check the outputs
+qmof-75cdf73_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-75cdf73_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-75cdf73_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9bfdab6_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9bfdab6_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-ec61e66_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-c7e180e_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-4ede352_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-59219a7_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+qmof-59219a7_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+qmof-59219a7_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+qmof-59219a7_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+qmof-89f21dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-89f21dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-89f21dc_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9c04dab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9c04dab_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-9c04dab_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9c04dab_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9c04dab_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-9c04dab_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-36ea904_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+qmof-36ea904_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+qmof-36ea904_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+qmof-36ea904_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-f9f153c_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+qmof-35e3fcd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-35e3fcd_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-35e3fcd_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-35e3fcd_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-35e3fcd_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-35e3fcd_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-00c8700_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-00c8700_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-00c8700_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b334eed_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b334eed_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-b334eed_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f681436_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f681436_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-f681436_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dda9113_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-dda9113_primitive, Anchors list: {0, 1, 2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4a96ec6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4a96ec6_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-4a96ec6_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4a96ec6_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4a96ec6_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-4a96ec6_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b23c232_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-b23c232_primitive, Anchors list: {0, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7492a1f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7492a1f_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-7492a1f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7492a1f_primitive, Anchors list: {2, 3, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7492a1f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-7492a1f_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+qmof-6bca146_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6bca146_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+qmof-6bca146_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,17 @@
+qmof-614da5d_primitive found to be an interpenetrated structure
+atom 0 with type of Zn found to have 5 coordinates with atom types of N,O
+atom 1 with type of Zn found to have 5 coordinates with atom types of N,O
+atom 2 with type of Zn found to have 5 coordinates with atom types of N,O
+atom 3 with type of Zn found to have 5 coordinates with atom types of N,O
+atom 4 with type of Zn found to have 3 coordinates with atom types of O
+atom 5 with type of Zn found to have 3 coordinates with atom types of O
+atom 6 with type of Zn found to have 3 coordinates with atom types of O
+atom 7 with type of Zn found to have 3 coordinates with atom types of O
+found ligand
+found ligand
+found ligand
+found ligand
+qmof-614da5d_primitive, (min_max_linker_length,max_min_linker_length): 20 , 4
+
+Structure has LONG ligand
+

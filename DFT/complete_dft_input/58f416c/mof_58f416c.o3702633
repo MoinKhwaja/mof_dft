@@ -1,0 +1,8 @@
+
+CUDA RUNTIME API error: SetDevice failed with error cudaErrorMemoryAllocation (/gs/fs/hpe/fukuoka/builds/cp2k/v2024.1/cp2k/exts/dbcsr/src/acc/cuda_hip/acc_dev.cpp::41)
+
+CUDA RUNTIME API error: SetDevice failed with error cudaErrorMemoryAllocation (/gs/fs/hpe/fukuoka/builds/cp2k/v2024.1/cp2k/exts/dbcsr/src/acc/cuda_hip/acc_dev.cpp::41)
+
+CUDA RUNTIME API error: SetDevice failed with error cudaErrorMemoryAllocation (/gs/fs/hpe/fukuoka/builds/cp2k/v2024.1/cp2k/exts/dbcsr/src/acc/cuda_hip/acc_dev.cpp::41)
+
+CUDA RUNTIME API error: SetDevice failed with error cudaErrorMemoryAllocation (/gs/fs/hpe/fukuoka/builds/cp2k/v2024.1/cp2k/exts/dbcsr/src/acc/cuda_hip/acc_dev.cpp::41)
